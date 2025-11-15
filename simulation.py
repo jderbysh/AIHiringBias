@@ -9,10 +9,10 @@ with open("./api_key.txt") as f:
 client = OpenAI(api_key=api_key)
 
 # Parameters
-repetitions = 1  # Number of repetitions
-industries_count = 1   # Number of industries 
-jobs_count = 1   # Number of jobs per industry
-resumes_count = 1  # Number of resumes per industry
+repetitions = 5  # Number of repetitions
+industries_count = 3   # Number of industries 
+jobs_count = 3   # Number of jobs per industry
+resumes_count = 3  # Number of resumes per industry
 
 # file paths
 job_directory = "./jobs"
@@ -40,6 +40,12 @@ with open("./names/names.txt") as f:
     for line in f:
         name, gender, race = line.strip().split(",")
         names.append([name,int(gender), int(race)])
+
+industry_map = {
+    1: "Admin",
+    2: "Call Centre",
+    3: "Hospitality"
+}
 
 # Build prompts for each combination of job and resume
 for i in range(repetitions):
@@ -76,6 +82,7 @@ for i in range(repetitions):
                     
                     # append the prompt to the prompts list
                     prompts.append({
+                        "repetition": i,
                         "name": j[0],
                         "gender": j[1],
                         "race": j[2],
@@ -84,18 +91,27 @@ for i in range(repetitions):
                         "prompt": prompt
                     })
 
-for prompt_data in prompts:
-    print(prompt_data['prompt'])
+tokens_used = 0
 
 # Results
-for prompt_data in prompts:
+for i, prompt_data in enumerate(prompts, start=1):
     # Request OpenAI API for each prompt
     response = client.responses.create(
         model="gpt-5.1-2025-11-13",
         input=prompt_data['prompt']
     )
-    # time.sleep(0.5) # so I don't hit the rate limit
     
+    # so I don't hit the rate limit (which is 30,000)
+    tokens_used += response.usage.total_tokens
+    print(f"Total Tokens Used: {tokens_used}")
+
+    print(f"{i} / {len(prompts)} completed, repetition: {prompt_data['repetition']}")
+
+    if tokens_used >= 25000:
+        print("Rate limit reached. Pausing for 60 seconds...")
+        time.sleep(60)
+        tokens_used = 0
+
     # Extract the result (assuming response contains comma-separated values for the scores)
     try:
         scores = response.output_text.strip().split(",")
@@ -104,12 +120,16 @@ for prompt_data in prompts:
             # Map gender and race
             gender_label = "female" if prompt_data["gender"] == 0 else "male"
             race_label = "white" if prompt_data["race"] == 0 else "black"
-            industry_label = ""
+
+            # we also need to map the job industry
+            job_industry_code = int(prompt_data["job_file"][3])
+            industry_label = industry_map.get(job_industry_code, None) # a bit risky having the None but I created the file names
 
             results.append({
                 "name": prompt_data["name"],
                 "gender": gender_label,
                 "race": race_label,
+                "industry": industry_label,
                 "job_file": prompt_data["job_file"],
                 "resume_file": prompt_data["resume_file"],
                 "Experience": int(scores[0]),  # Relevant Experience
@@ -124,7 +144,7 @@ for prompt_data in prompts:
 csv_filename = "evaluation_results.csv"
 with open(csv_filename, mode="w", newline="") as file:
     writer = csv.DictWriter(file, fieldnames=[
-        "name", "gender", "race", "job_file", "resume_file", "Experience", "Skills", "Achievements", "Resume"
+        "name", "gender", "race", "industry", "job_file", "resume_file", "Experience", "Skills", "Achievements", "Resume"
     ])
     writer.writeheader()
     for result in results:
