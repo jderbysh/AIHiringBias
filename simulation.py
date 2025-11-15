@@ -9,7 +9,7 @@ with open("./api_key.txt") as f:
 client = OpenAI(api_key=api_key)
 
 # Parameters
-repetitions = 5  # Number of repetitions
+repetitions = 3  # Number of repetitions
 industries_count = 3   # Number of industries 
 jobs_count = 3   # Number of jobs per industry
 resumes_count = 3  # Number of resumes per industry
