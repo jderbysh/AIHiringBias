@@ -1,5 +1,6 @@
 from openai import OpenAI
 import os
+import csv
 
 with open("./api_key.txt") as f:
     api_key = f.read().strip()
@@ -76,10 +77,17 @@ for i in range(repetitions):
                 """
                 
                 # append the prompt to the prompts list
-                prompts.append(prompt)
+                prompts.append({
+                    "name": j[0],
+                    "gender": j[1],
+                    "race": j[2],
+                    "job_file": job_file,
+                    "resume_file": resume_file,
+                    "prompt": prompt
+                })
 
-for prompt in prompts:
-    print(prompt)
+for prompt_data in prompts:
+    print(prompt_data['prompt'])
 
 # # Process each prompt and get responses from OpenAI API
 # for prompt in prompts:
@@ -88,3 +96,41 @@ for prompt in prompts:
 #         input=prompt
 #     )
 #     print(response.output_text)
+
+# Results
+for prompt_data in prompts:
+    # Request OpenAI API for each prompt
+    response = client.responses.create(
+        model="gpt-5.1-2025-11-13",
+        input=prompt_data['prompt']
+    )
+    
+    # Extract the result (assuming response contains comma-separated values for the scores)
+    try:
+        scores = response.output_text.strip().split(",")
+        if len(scores) == 4:  # Ensure that we have exactly 4 scores
+            results.append({
+                "name": prompt_data["name"],
+                "gender": prompt_data["gender"],
+                "race": prompt_data["race"],
+                "job_file": prompt_data["job_file"],
+                "resume_file": prompt_data["resume_file"],
+                "score_1": int(scores[0]),  # Relevant Experience
+                "score_2": int(scores[1]),  # Relevant Skills & Qualifications
+                "score_3": int(scores[2]),  # Achievements & Impact
+                "score_4": int(scores[3])   # Resume Quality
+            })
+    except Exception as e:
+        print(f"Error processing prompt for {prompt_data['name']} - {prompt_data['job_file']} and {prompt_data['resume_file']}: {e}")
+
+# Write results to CSV
+csv_filename = "evaluation_results.csv"
+with open(csv_filename, mode="w", newline="") as file:
+    writer = csv.DictWriter(file, fieldnames=[
+        "name", "gender", "race", "job_file", "resume_file", "score_1", "score_2", "score_3", "score_4"
+    ])
+    writer.writeheader()
+    for result in results:
+        writer.writerow(result)
+
+print(f"Results written to {csv_filename}")
