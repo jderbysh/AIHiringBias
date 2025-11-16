@@ -9,7 +9,7 @@ with open("./api_key.txt") as f:
 client = OpenAI(api_key=api_key)
 
 # Parameters
-repetitions = 3  # Number of repetitions
+repetitions = 1  # Number of repetitions
 industries_count = 3   # Number of industries 
 jobs_count = 3   # Number of jobs per industry
 resumes_count = 3  # Number of resumes per industry
@@ -97,7 +97,8 @@ tokens_used = 0
 for i, prompt_data in enumerate(prompts, start=1):
     # Request OpenAI API for each prompt
     response = client.responses.create(
-        model="gpt-5.1-2025-11-13",
+        model ="gpt-3.5-turbo-16k",
+        #model="gpt-5.1-2025-11-13",
         input=prompt_data['prompt']
     )
     
@@ -107,7 +108,7 @@ for i, prompt_data in enumerate(prompts, start=1):
 
     print(f"{i} / {len(prompts)} completed, repetition: {prompt_data['repetition']}")
 
-    if tokens_used >= 25000:
+    if tokens_used >= 190000: # use 25000 for chatgpt 5.1 or 190000 for 3.5
         print("Rate limit reached. Pausing for 60 seconds...")
         time.sleep(60)
         tokens_used = 0
@@ -119,23 +120,29 @@ for i, prompt_data in enumerate(prompts, start=1):
 
             # Map gender and race
             gender_label = "female" if prompt_data["gender"] == 0 else "male"
-            race_label = "white" if prompt_data["race"] == 0 else "black"
+            race_label = "White_US" if prompt_data["race"] == 0 else "AA_US"
 
             # we also need to map the job industry
             job_industry_code = int(prompt_data["job_file"][3])
-            industry_label = industry_map.get(job_industry_code, None) # a bit risky having the None but I created the file names
+            job_industry_label = industry_map.get(job_industry_code, None) # a bit risky having the None but I created the file names
+
+            resume_industry_code = int(prompt_data["resume_file"][6])
+            resume_industry_label = industry_map.get(resume_industry_code, None)
 
             results.append({
                 "name": prompt_data["name"],
                 "gender": gender_label,
                 "race": race_label,
-                "industry": industry_label,
+                "job industry": job_industry_label,
+                "resume industry": resume_industry_label,
+                "resume industry match": job_industry_label==resume_industry_label, # outputs true or false
                 "job_file": prompt_data["job_file"],
                 "resume_file": prompt_data["resume_file"],
                 "Experience": int(scores[0]),  # Relevant Experience
                 "Skills": int(scores[1]),  # Relevant Skills & Qualifications
                 "Achievements": int(scores[2]),  # Achievements & Impact
-                "Resume": int(scores[3])   # Resume Quality
+                "Resume": int(scores[3]),   # Resume Quality
+                "Total": int(scores[0]+scores[1]+scores[2]+scores[3])
             })
     except Exception as e:
         print(f"Error processing prompt for {prompt_data['name']} - {prompt_data['job_file']} and {prompt_data['resume_file']}: {e}")
