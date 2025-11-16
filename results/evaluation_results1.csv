@@ -1,0 +1,2917 @@
+name,gender,race,industry,job_file,resume_file,Experience,Skills,Achievements,Resume
+Emily,female,White_US,Admin,job11.txt,resume11.txt,10,15,6,20
+Emily,female,White_US,Admin,job11.txt,resume12.txt,5,10,3,14
+Emily,female,White_US,Admin,job11.txt,resume13.txt,10,12,5,20
+Emily,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Emily,female,White_US,Admin,job12.txt,resume12.txt,18,19,5,14
+Emily,female,White_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Emily,female,White_US,Admin,job13.txt,resume11.txt,18,19,10,22
+Emily,female,White_US,Admin,job13.txt,resume12.txt,5,7,2,10
+Emily,female,White_US,Admin,job13.txt,resume13.txt,18,19,8,21
+Emily,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Emily,female,White_US,Call Centre,job21.txt,resume22.txt,10,13,6,18
+Emily,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,21
+Emily,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Emily,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,5,18
+Emily,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Emily,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Emily,female,White_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Emily,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Emily,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Emily,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Emily,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Emily,female,White_US,Hospitality,job32.txt,resume31.txt,15,20,3,18
+Emily,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Emily,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Emily,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,22
+Emily,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Emily,female,White_US,Hospitality,job33.txt,resume33.txt,20,22,8,22
+Anne,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,21
+Anne,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Anne,female,White_US,Admin,job11.txt,resume13.txt,12,15,6,20
+Anne,female,White_US,Admin,job12.txt,resume11.txt,23,22,12,22
+Anne,female,White_US,Admin,job12.txt,resume12.txt,18,19,5,17
+Anne,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Anne,female,White_US,Admin,job13.txt,resume11.txt,18,17,6,21
+Anne,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Anne,female,White_US,Admin,job13.txt,resume13.txt,18,18,8,22
+Anne,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Anne,female,White_US,Call Centre,job21.txt,resume22.txt,15,17,8,19
+Anne,female,White_US,Call Centre,job21.txt,resume23.txt,17,18,16,22
+Anne,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Anne,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,6,14
+Anne,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Anne,female,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Anne,female,White_US,Call Centre,job23.txt,resume22.txt,12,18,8,18
+Anne,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Anne,female,White_US,Hospitality,job31.txt,resume31.txt,18,22,8,20
+Anne,female,White_US,Hospitality,job31.txt,resume32.txt,10,15,5,18
+Anne,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Anne,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Anne,female,White_US,Hospitality,job32.txt,resume32.txt,10,12,2,18
+Anne,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,19
+Anne,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Anne,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Anne,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Jill,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Jill,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Jill,female,White_US,Admin,job11.txt,resume13.txt,10,13,4,21
+Jill,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Jill,female,White_US,Admin,job12.txt,resume12.txt,18,19,8,17
+Jill,female,White_US,Admin,job12.txt,resume13.txt,21,22,10,23
+Jill,female,White_US,Admin,job13.txt,resume11.txt,15,16,6,20
+Jill,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Jill,female,White_US,Admin,job13.txt,resume13.txt,18,19,8,21
+Jill,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Jill,female,White_US,Call Centre,job21.txt,resume22.txt,15,14,6,18
+Jill,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Jill,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Jill,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,5,18
+Jill,female,White_US,Call Centre,job22.txt,resume23.txt,13,15,10,20
+Jill,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Jill,female,White_US,Call Centre,job23.txt,resume22.txt,14,18,8,15
+Jill,female,White_US,Call Centre,job23.txt,resume23.txt,22,22,16,22
+Jill,female,White_US,Hospitality,job31.txt,resume31.txt,15,18,5,20
+Jill,female,White_US,Hospitality,job31.txt,resume32.txt,12,14,4,18
+Jill,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Jill,female,White_US,Hospitality,job32.txt,resume31.txt,20,22,6,20
+Jill,female,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,14
+Jill,female,White_US,Hospitality,job32.txt,resume33.txt,12,16,5,18
+Jill,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,5,21
+Jill,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,8,20
+Jill,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Allison,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Allison,female,White_US,Admin,job11.txt,resume12.txt,6,10,2,12
+Allison,female,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Allison,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Allison,female,White_US,Admin,job12.txt,resume12.txt,18,19,8,17
+Allison,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Allison,female,White_US,Admin,job13.txt,resume11.txt,18,17,8,21
+Allison,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Allison,female,White_US,Admin,job13.txt,resume13.txt,15,17,6,20
+Allison,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Allison,female,White_US,Call Centre,job21.txt,resume22.txt,13,15,6,18
+Allison,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,15,22
+Allison,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Allison,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Allison,female,White_US,Call Centre,job22.txt,resume23.txt,18,20,14,22
+Allison,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Allison,female,White_US,Call Centre,job23.txt,resume22.txt,12,15,6,16
+Allison,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Allison,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Allison,female,White_US,Hospitality,job31.txt,resume32.txt,8,14,2,15
+Allison,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Allison,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Allison,female,White_US,Hospitality,job32.txt,resume32.txt,10,14,2,15
+Allison,female,White_US,Hospitality,job32.txt,resume33.txt,10,14,4,18
+Allison,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,22
+Allison,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Allison,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Sarah,female,White_US,Admin,job11.txt,resume11.txt,12,16,6,21
+Sarah,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Sarah,female,White_US,Admin,job11.txt,resume13.txt,8,12,5,20
+Sarah,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Sarah,female,White_US,Admin,job12.txt,resume12.txt,18,19,6,16
+Sarah,female,White_US,Admin,job12.txt,resume13.txt,20,22,10,22
+Sarah,female,White_US,Admin,job13.txt,resume11.txt,18,18,8,20
+Sarah,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Sarah,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Sarah,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,23
+Sarah,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Sarah,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Sarah,female,White_US,Call Centre,job22.txt,resume21.txt,20,18,19,22
+Sarah,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,16
+Sarah,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Sarah,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Sarah,female,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Sarah,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Sarah,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Sarah,female,White_US,Hospitality,job31.txt,resume32.txt,10,14,2,15
+Sarah,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Sarah,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Sarah,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Sarah,female,White_US,Hospitality,job32.txt,resume33.txt,8,14,6,18
+Sarah,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Sarah,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Sarah,female,White_US,Hospitality,job33.txt,resume33.txt,24,24,9,21
+Meredith,female,White_US,Admin,job11.txt,resume11.txt,10,15,6,21
+Meredith,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Meredith,female,White_US,Admin,job11.txt,resume13.txt,8,14,4,21
+Meredith,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Meredith,female,White_US,Admin,job12.txt,resume12.txt,15,18,5,17
+Meredith,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Meredith,female,White_US,Admin,job13.txt,resume11.txt,18,18,8,20
+Meredith,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,12
+Meredith,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Meredith,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,23
+Meredith,female,White_US,Call Centre,job21.txt,resume22.txt,16,15,8,18
+Meredith,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Meredith,female,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Meredith,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,14
+Meredith,female,White_US,Call Centre,job22.txt,resume23.txt,18,19,12,22
+Meredith,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,23
+Meredith,female,White_US,Call Centre,job23.txt,resume22.txt,14,17,6,18
+Meredith,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Meredith,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Meredith,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Meredith,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,18
+Meredith,female,White_US,Hospitality,job32.txt,resume31.txt,18,19,5,20
+Meredith,female,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,16
+Meredith,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Meredith,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Meredith,female,White_US,Hospitality,job33.txt,resume32.txt,18,22,6,20
+Meredith,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,13,22
+Laurie,female,White_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Laurie,female,White_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Laurie,female,White_US,Admin,job11.txt,resume13.txt,10,12,5,21
+Laurie,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Laurie,female,White_US,Admin,job12.txt,resume12.txt,17,18,6,15
+Laurie,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Laurie,female,White_US,Admin,job13.txt,resume11.txt,15,18,5,20
+Laurie,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,12
+Laurie,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Laurie,female,White_US,Call Centre,job21.txt,resume21.txt,20,19,21,22
+Laurie,female,White_US,Call Centre,job21.txt,resume22.txt,12,15,8,18
+Laurie,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Laurie,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Laurie,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,4,18
+Laurie,female,White_US,Call Centre,job22.txt,resume23.txt,12,18,10,20
+Laurie,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Laurie,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Laurie,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Laurie,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Laurie,female,White_US,Hospitality,job31.txt,resume32.txt,10,14,3,16
+Laurie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Laurie,female,White_US,Hospitality,job32.txt,resume31.txt,20,22,5,18
+Laurie,female,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,18
+Laurie,female,White_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Laurie,female,White_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Laurie,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Laurie,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Carrie,female,White_US,Admin,job11.txt,resume11.txt,10,14,5,20
+Carrie,female,White_US,Admin,job11.txt,resume12.txt,5,10,3,10
+Carrie,female,White_US,Admin,job11.txt,resume13.txt,8,12,4,20
+Carrie,female,White_US,Admin,job12.txt,resume11.txt,22,23,11,23
+Carrie,female,White_US,Admin,job12.txt,resume12.txt,18,20,5,17
+Carrie,female,White_US,Admin,job12.txt,resume13.txt,23,23,8,22
+Carrie,female,White_US,Admin,job13.txt,resume11.txt,18,17,8,22
+Carrie,female,White_US,Admin,job13.txt,resume12.txt,8,9,2,10
+Carrie,female,White_US,Admin,job13.txt,resume13.txt,18,17,6,21
+Carrie,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Carrie,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Carrie,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Carrie,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Carrie,female,White_US,Call Centre,job22.txt,resume22.txt,10,13,5,16
+Carrie,female,White_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Carrie,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Carrie,female,White_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Carrie,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,18,23
+Carrie,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Carrie,female,White_US,Hospitality,job31.txt,resume32.txt,18,19,5,18
+Carrie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Carrie,female,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Carrie,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,18
+Carrie,female,White_US,Hospitality,job32.txt,resume33.txt,10,14,6,18
+Carrie,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Carrie,female,White_US,Hospitality,job33.txt,resume32.txt,18,21,6,19
+Carrie,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Kristen,female,White_US,Admin,job11.txt,resume11.txt,10,15,6,20
+Kristen,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Kristen,female,White_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Kristen,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Kristen,female,White_US,Admin,job12.txt,resume12.txt,18,20,8,18
+Kristen,female,White_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Kristen,female,White_US,Admin,job13.txt,resume11.txt,17,18,8,20
+Kristen,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,8
+Kristen,female,White_US,Admin,job13.txt,resume13.txt,15,17,6,22
+Kristen,female,White_US,Call Centre,job21.txt,resume21.txt,22,21,23,22
+Kristen,female,White_US,Call Centre,job21.txt,resume22.txt,10,14,6,18
+Kristen,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Kristen,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Kristen,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,5,15
+Kristen,female,White_US,Call Centre,job22.txt,resume23.txt,18,17,10,20
+Kristen,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Kristen,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Kristen,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Kristen,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Kristen,female,White_US,Hospitality,job31.txt,resume32.txt,12,15,4,18
+Kristen,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Kristen,female,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Kristen,female,White_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Kristen,female,White_US,Hospitality,job32.txt,resume33.txt,10,15,6,19
+Kristen,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,5,20
+Kristen,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Kristen,female,White_US,Hospitality,job33.txt,resume33.txt,20,23,10,22
+Neil,male,White_US,Admin,job11.txt,resume11.txt,10,18,10,22
+Neil,male,White_US,Admin,job11.txt,resume12.txt,5,10,3,12
+Neil,male,White_US,Admin,job11.txt,resume13.txt,10,15,5,22
+Neil,male,White_US,Admin,job12.txt,resume11.txt,20,22,10,22
+Neil,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,15
+Neil,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Neil,male,White_US,Admin,job13.txt,resume11.txt,18,18,6,20
+Neil,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Neil,male,White_US,Admin,job13.txt,resume13.txt,14,18,6,21
+Neil,male,White_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Neil,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Neil,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Neil,male,White_US,Call Centre,job22.txt,resume21.txt,18,20,21,20
+Neil,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,16
+Neil,male,White_US,Call Centre,job22.txt,resume23.txt,14,17,13,20
+Neil,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Neil,male,White_US,Call Centre,job23.txt,resume22.txt,14,17,8,18
+Neil,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Neil,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Neil,male,White_US,Hospitality,job31.txt,resume32.txt,12,18,5,18
+Neil,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Neil,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Neil,male,White_US,Hospitality,job32.txt,resume32.txt,10,12,2,15
+Neil,male,White_US,Hospitality,job32.txt,resume33.txt,10,14,4,18
+Neil,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Neil,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Neil,male,White_US,Hospitality,job33.txt,resume33.txt,23,23,12,20
+Geoffrey,male,White_US,Admin,job11.txt,resume11.txt,8,13,4,20
+Geoffrey,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Geoffrey,male,White_US,Admin,job11.txt,resume13.txt,10,18,6,22
+Geoffrey,male,White_US,Admin,job12.txt,resume11.txt,23,23,8,22
+Geoffrey,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Geoffrey,male,White_US,Admin,job12.txt,resume13.txt,22,23,8,22
+Geoffrey,male,White_US,Admin,job13.txt,resume11.txt,18,17,10,21
+Geoffrey,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Geoffrey,male,White_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Geoffrey,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Geoffrey,male,White_US,Call Centre,job21.txt,resume22.txt,15,17,8,18
+Geoffrey,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Geoffrey,male,White_US,Call Centre,job22.txt,resume21.txt,18,20,21,22
+Geoffrey,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,16
+Geoffrey,male,White_US,Call Centre,job22.txt,resume23.txt,18,17,10,20
+Geoffrey,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,21,22
+Geoffrey,male,White_US,Call Centre,job23.txt,resume22.txt,12,16,6,18
+Geoffrey,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,16,22
+Geoffrey,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume32.txt,10,14,4,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume33.txt,20,21,8,19
+Geoffrey,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Geoffrey,male,White_US,Hospitality,job32.txt,resume32.txt,10,14,2,16
+Geoffrey,male,White_US,Hospitality,job32.txt,resume33.txt,13,16,6,20
+Geoffrey,male,White_US,Hospitality,job33.txt,resume31.txt,23,23,10,18
+Geoffrey,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Geoffrey,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Brett,male,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Brett,male,White_US,Admin,job11.txt,resume12.txt,8,10,4,12
+Brett,male,White_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Brett,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Brett,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Brett,male,White_US,Admin,job12.txt,resume13.txt,20,22,10,23
+Brett,male,White_US,Admin,job13.txt,resume11.txt,17,18,8,21
+Brett,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Brett,male,White_US,Admin,job13.txt,resume13.txt,17,18,6,22
+Brett,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Brett,male,White_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Brett,male,White_US,Call Centre,job21.txt,resume23.txt,15,18,14,22
+Brett,male,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Brett,male,White_US,Call Centre,job22.txt,resume22.txt,10,14,6,18
+Brett,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Brett,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Brett,male,White_US,Call Centre,job23.txt,resume22.txt,16,18,8,17
+Brett,male,White_US,Call Centre,job23.txt,resume23.txt,22,22,16,20
+Brett,male,White_US,Hospitality,job31.txt,resume31.txt,18,22,6,18
+Brett,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Brett,male,White_US,Hospitality,job31.txt,resume33.txt,20,18,8,20
+Brett,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Brett,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Brett,male,White_US,Hospitality,job32.txt,resume33.txt,10,15,5,18
+Brett,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Brett,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Brett,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Brendan,male,White_US,Admin,job11.txt,resume11.txt,10,15,6,22
+Brendan,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Brendan,male,White_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Brendan,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Brendan,male,White_US,Admin,job12.txt,resume12.txt,18,20,5,15
+Brendan,male,White_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Brendan,male,White_US,Admin,job13.txt,resume11.txt,17,18,8,20
+Brendan,male,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Brendan,male,White_US,Admin,job13.txt,resume13.txt,18,17,6,21
+Brendan,male,White_US,Call Centre,job21.txt,resume21.txt,20,18,20,22
+Brendan,male,White_US,Call Centre,job21.txt,resume22.txt,14,15,8,18
+Brendan,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Brendan,male,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Brendan,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Brendan,male,White_US,Call Centre,job22.txt,resume23.txt,14,15,10,20
+Brendan,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Brendan,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,8,17
+Brendan,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Brendan,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,19
+Brendan,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,16
+Brendan,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Brendan,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Brendan,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,15
+Brendan,male,White_US,Hospitality,job32.txt,resume33.txt,10,14,4,18
+Brendan,male,White_US,Hospitality,job33.txt,resume31.txt,23,23,8,20
+Brendan,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Brendan,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Greg,male,White_US,Admin,job11.txt,resume11.txt,8,14,5,21
+Greg,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Greg,male,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Greg,male,White_US,Admin,job12.txt,resume11.txt,23,22,13,22
+Greg,male,White_US,Admin,job12.txt,resume12.txt,15,18,5,14
+Greg,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Greg,male,White_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Greg,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,8
+Greg,male,White_US,Admin,job13.txt,resume13.txt,17,18,6,21
+Greg,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Greg,male,White_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Greg,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Greg,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,21
+Greg,male,White_US,Call Centre,job22.txt,resume22.txt,12,13,6,16
+Greg,male,White_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Greg,male,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Greg,male,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Greg,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Greg,male,White_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Greg,male,White_US,Hospitality,job31.txt,resume32.txt,12,14,3,16
+Greg,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Greg,male,White_US,Hospitality,job32.txt,resume31.txt,20,22,6,18
+Greg,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Greg,male,White_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Greg,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Greg,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,8,20
+Greg,male,White_US,Hospitality,job33.txt,resume33.txt,20,23,10,22
+Todd,male,White_US,Admin,job11.txt,resume11.txt,10,15,6,20
+Todd,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Todd,male,White_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Todd,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Todd,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Todd,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Todd,male,White_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Todd,male,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Todd,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Todd,male,White_US,Call Centre,job21.txt,resume21.txt,18,19,21,23
+Todd,male,White_US,Call Centre,job21.txt,resume22.txt,10,12,5,16
+Todd,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Todd,male,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,21
+Todd,male,White_US,Call Centre,job22.txt,resume22.txt,12,14,6,18
+Todd,male,White_US,Call Centre,job22.txt,resume23.txt,10,14,10,20
+Todd,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,21,22
+Todd,male,White_US,Call Centre,job23.txt,resume22.txt,13,16,6,18
+Todd,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Todd,male,White_US,Hospitality,job31.txt,resume31.txt,18,21,6,20
+Todd,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Todd,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Todd,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Todd,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Todd,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Todd,male,White_US,Hospitality,job33.txt,resume31.txt,22,23,5,19
+Todd,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Todd,male,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Matthew,male,White_US,Admin,job11.txt,resume11.txt,8,14,6,20
+Matthew,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Matthew,male,White_US,Admin,job11.txt,resume13.txt,8,12,5,20
+Matthew,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,23
+Matthew,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,15
+Matthew,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Matthew,male,White_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Matthew,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Matthew,male,White_US,Admin,job13.txt,resume13.txt,18,19,8,21
+Matthew,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Matthew,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Matthew,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Matthew,male,White_US,Call Centre,job22.txt,resume21.txt,14,18,20,21
+Matthew,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,12
+Matthew,male,White_US,Call Centre,job22.txt,resume23.txt,10,15,8,20
+Matthew,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,21,22
+Matthew,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Matthew,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,16,21
+Matthew,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Matthew,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Matthew,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Matthew,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Matthew,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Matthew,male,White_US,Hospitality,job32.txt,resume33.txt,18,20,6,20
+Matthew,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Matthew,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Matthew,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Jay,male,White_US,Admin,job11.txt,resume11.txt,8,14,6,20
+Jay,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,14
+Jay,male,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Jay,male,White_US,Admin,job12.txt,resume11.txt,22,23,13,22
+Jay,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Jay,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Jay,male,White_US,Admin,job13.txt,resume11.txt,16,18,8,21
+Jay,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jay,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,20
+Jay,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,23
+Jay,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Jay,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Jay,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Jay,male,White_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Jay,male,White_US,Call Centre,job22.txt,resume23.txt,14,16,10,21
+Jay,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jay,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,15
+Jay,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Jay,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Jay,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,5,18
+Jay,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Jay,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Jay,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Jay,male,White_US,Hospitality,job32.txt,resume33.txt,10,15,6,18
+Jay,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Jay,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Jay,male,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Brad,male,White_US,Admin,job11.txt,resume11.txt,10,15,6,20
+Brad,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,14
+Brad,male,White_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Brad,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Brad,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Brad,male,White_US,Admin,job12.txt,resume13.txt,20,22,10,22
+Brad,male,White_US,Admin,job13.txt,resume11.txt,17,18,8,21
+Brad,male,White_US,Admin,job13.txt,resume12.txt,8,9,3,12
+Brad,male,White_US,Admin,job13.txt,resume13.txt,18,19,8,21
+Brad,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Brad,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Brad,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Brad,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Brad,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,16
+Brad,male,White_US,Call Centre,job22.txt,resume23.txt,12,14,10,20
+Brad,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Brad,male,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Brad,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,16,22
+Brad,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Brad,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,5,18
+Brad,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Brad,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Brad,male,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,16
+Brad,male,White_US,Hospitality,job32.txt,resume33.txt,7,10,4,18
+Brad,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Brad,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Brad,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Aisha,female,AA_US,Admin,job11.txt,resume11.txt,10,13,6,20
+Aisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Aisha,female,AA_US,Admin,job11.txt,resume13.txt,8,14,6,21
+Aisha,female,AA_US,Admin,job12.txt,resume11.txt,22,23,14,22
+Aisha,female,AA_US,Admin,job12.txt,resume12.txt,15,18,5,16
+Aisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,12,23
+Aisha,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,22
+Aisha,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Aisha,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Aisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Aisha,female,AA_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Aisha,female,AA_US,Call Centre,job21.txt,resume23.txt,16,18,14,20
+Aisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Aisha,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,18
+Aisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Aisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Aisha,female,AA_US,Call Centre,job23.txt,resume22.txt,14,18,7,18
+Aisha,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,16,22
+Aisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Aisha,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,16
+Aisha,female,AA_US,Hospitality,job31.txt,resume33.txt,20,22,8,18
+Aisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Aisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,15
+Aisha,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Keisha,female,AA_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Keisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,3,10
+Keisha,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Keisha,female,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Keisha,female,AA_US,Admin,job12.txt,resume12.txt,15,18,6,17
+Keisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Keisha,female,AA_US,Admin,job13.txt,resume11.txt,15,18,6,21
+Keisha,female,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Keisha,female,AA_US,Admin,job13.txt,resume13.txt,14,16,6,20
+Keisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Keisha,female,AA_US,Call Centre,job21.txt,resume22.txt,12,13,6,18
+Keisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Keisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Keisha,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Keisha,female,AA_US,Call Centre,job22.txt,resume23.txt,18,19,10,22
+Keisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,23
+Keisha,female,AA_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Keisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Keisha,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,18
+Keisha,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Keisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Keisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Keisha,female,AA_US,Hospitality,job32.txt,resume32.txt,15,18,3,16
+Keisha,female,AA_US,Hospitality,job32.txt,resume33.txt,18,20,6,19
+Keisha,female,AA_US,Hospitality,job33.txt,resume31.txt,22,23,10,20
+Keisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Keisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Tamika,female,AA_US,Admin,job11.txt,resume11.txt,10,18,8,22
+Tamika,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Tamika,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Tamika,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Tamika,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Tamika,female,AA_US,Admin,job12.txt,resume13.txt,20,22,10,22
+Tamika,female,AA_US,Admin,job13.txt,resume11.txt,18,19,8,20
+Tamika,female,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Tamika,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Tamika,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Tamika,female,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,17
+Tamika,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,5,14
+Tamika,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Tamika,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Tamika,female,AA_US,Call Centre,job23.txt,resume22.txt,13,18,8,20
+Tamika,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Tamika,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Tamika,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,4,16
+Tamika,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,18
+Tamika,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Tamika,female,AA_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Tamika,female,AA_US,Hospitality,job32.txt,resume33.txt,18,20,8,19
+Tamika,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Lakisha,female,AA_US,Admin,job11.txt,resume11.txt,5,10,4,20
+Lakisha,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Lakisha,female,AA_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Lakisha,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Lakisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Lakisha,female,AA_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Lakisha,female,AA_US,Admin,job13.txt,resume11.txt,15,18,8,20
+Lakisha,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,12
+Lakisha,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Lakisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Lakisha,female,AA_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Lakisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Lakisha,female,AA_US,Call Centre,job22.txt,resume21.txt,16,18,19,21
+Lakisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Lakisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Lakisha,female,AA_US,Call Centre,job23.txt,resume21.txt,25,24,23,23
+Lakisha,female,AA_US,Call Centre,job23.txt,resume22.txt,16,18,8,18
+Lakisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Lakisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Lakisha,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Lakisha,female,AA_US,Hospitality,job31.txt,resume33.txt,20,21,8,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume31.txt,20,22,5,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,15,3,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,19
+Lakisha,female,AA_US,Hospitality,job33.txt,resume31.txt,22,24,8,19
+Lakisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Lakisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,12,21
+Tanisha,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Tanisha,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Tanisha,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,22
+Tanisha,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Tanisha,female,AA_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Tanisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Tanisha,female,AA_US,Admin,job13.txt,resume11.txt,18,18,8,22
+Tanisha,female,AA_US,Admin,job13.txt,resume12.txt,5,10,2,10
+Tanisha,female,AA_US,Admin,job13.txt,resume13.txt,18,18,5,20
+Tanisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,23
+Tanisha,female,AA_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Tanisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Tanisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,20
+Tanisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Tanisha,female,AA_US,Call Centre,job22.txt,resume23.txt,18,19,13,21
+Tanisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,22,21,22
+Tanisha,female,AA_US,Call Centre,job23.txt,resume22.txt,15,18,6,18
+Tanisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Tanisha,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,18
+Tanisha,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Tanisha,female,AA_US,Hospitality,job31.txt,resume33.txt,20,20,8,20
+Tanisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Tanisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,4,18
+Tanisha,female,AA_US,Hospitality,job32.txt,resume33.txt,18,20,10,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume32.txt,18,21,6,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Latoya,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Latoya,female,AA_US,Admin,job11.txt,resume12.txt,8,10,2,10
+Latoya,female,AA_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Latoya,female,AA_US,Admin,job12.txt,resume11.txt,22,23,12,22
+Latoya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Latoya,female,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Latoya,female,AA_US,Admin,job13.txt,resume11.txt,17,18,8,21
+Latoya,female,AA_US,Admin,job13.txt,resume12.txt,5,7,2,10
+Latoya,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Latoya,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Latoya,female,AA_US,Call Centre,job21.txt,resume22.txt,15,15,8,18
+Latoya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Latoya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,20,21,22
+Latoya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,18
+Latoya,female,AA_US,Call Centre,job22.txt,resume23.txt,18,18,12,22
+Latoya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Latoya,female,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Latoya,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Latoya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Latoya,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Latoya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Latoya,female,AA_US,Hospitality,job32.txt,resume31.txt,13,18,4,18
+Latoya,female,AA_US,Hospitality,job32.txt,resume32.txt,12,15,3,15
+Latoya,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Latoya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,8,22
+Kenya,female,AA_US,Admin,job11.txt,resume11.txt,10,16,6,21
+Kenya,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,12
+Kenya,female,AA_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Kenya,female,AA_US,Admin,job12.txt,resume11.txt,22,23,14,22
+Kenya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Kenya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Kenya,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Kenya,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Kenya,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Kenya,female,AA_US,Call Centre,job21.txt,resume21.txt,20,21,22,23
+Kenya,female,AA_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Kenya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,15
+Kenya,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Kenya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Kenya,female,AA_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Kenya,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Kenya,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Kenya,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Kenya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Kenya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Kenya,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,15
+Kenya,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Kenya,female,AA_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Kenya,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,18
+Kenya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Latonya,female,AA_US,Admin,job11.txt,resume11.txt,10,14,5,20
+Latonya,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Latonya,female,AA_US,Admin,job11.txt,resume13.txt,10,14,4,21
+Latonya,female,AA_US,Admin,job12.txt,resume11.txt,22,23,12,22
+Latonya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,8,15
+Latonya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,8,23
+Latonya,female,AA_US,Admin,job13.txt,resume11.txt,14,16,6,20
+Latonya,female,AA_US,Admin,job13.txt,resume12.txt,8,10,4,10
+Latonya,female,AA_US,Admin,job13.txt,resume13.txt,18,19,6,20
+Latonya,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Latonya,female,AA_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Latonya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume21.txt,20,18,21,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Latonya,female,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Latonya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Latonya,female,AA_US,Call Centre,job23.txt,resume22.txt,10,15,6,18
+Latonya,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Latonya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Latonya,female,AA_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Latonya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,10,19
+Latonya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Latonya,female,AA_US,Hospitality,job32.txt,resume32.txt,12,15,4,18
+Latonya,female,AA_US,Hospitality,job32.txt,resume33.txt,13,15,5,18
+Latonya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Latonya,female,AA_US,Hospitality,job33.txt,resume32.txt,18,21,5,18
+Latonya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Ebony,female,AA_US,Admin,job11.txt,resume11.txt,10,15,6,21
+Ebony,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,8
+Ebony,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Ebony,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Ebony,female,AA_US,Admin,job12.txt,resume12.txt,18,20,8,15
+Ebony,female,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Ebony,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,22
+Ebony,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Ebony,female,AA_US,Admin,job13.txt,resume13.txt,15,18,5,21
+Ebony,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,21,23
+Ebony,female,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,18
+Ebony,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Ebony,female,AA_US,Call Centre,job22.txt,resume23.txt,14,17,10,21
+Ebony,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Ebony,female,AA_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Ebony,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Ebony,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Ebony,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Ebony,female,AA_US,Hospitality,job31.txt,resume33.txt,19,20,6,19
+Ebony,female,AA_US,Hospitality,job32.txt,resume31.txt,20,22,8,20
+Ebony,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,17
+Ebony,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume31.txt,22,23,5,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Rasheed,male,AA_US,Admin,job11.txt,resume11.txt,10,18,8,20
+Rasheed,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Rasheed,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Rasheed,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Rasheed,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Rasheed,male,AA_US,Admin,job12.txt,resume13.txt,22,23,8,22
+Rasheed,male,AA_US,Admin,job13.txt,resume11.txt,15,18,6,20
+Rasheed,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Rasheed,male,AA_US,Admin,job13.txt,resume13.txt,18,18,8,20
+Rasheed,male,AA_US,Call Centre,job21.txt,resume21.txt,20,18,20,22
+Rasheed,male,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,18
+Rasheed,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Rasheed,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Rasheed,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,16
+Rasheed,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Rasheed,male,AA_US,Call Centre,job23.txt,resume21.txt,25,23,21,22
+Rasheed,male,AA_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Rasheed,male,AA_US,Call Centre,job23.txt,resume23.txt,22,22,14,21
+Rasheed,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume32.txt,18,20,5,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,18
+Rasheed,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Rasheed,male,AA_US,Hospitality,job32.txt,resume32.txt,10,15,3,16
+Rasheed,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume31.txt,20,24,6,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,20
+Tremayne,male,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Tremayne,male,AA_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Tremayne,male,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Tremayne,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Tremayne,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,15
+Tremayne,male,AA_US,Admin,job12.txt,resume13.txt,23,23,10,22
+Tremayne,male,AA_US,Admin,job13.txt,resume11.txt,18,18,8,20
+Tremayne,male,AA_US,Admin,job13.txt,resume12.txt,10,12,2,9
+Tremayne,male,AA_US,Admin,job13.txt,resume13.txt,18,18,8,20
+Tremayne,male,AA_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Tremayne,male,AA_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Tremayne,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Tremayne,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Tremayne,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Tremayne,male,AA_US,Call Centre,job23.txt,resume22.txt,13,18,6,17
+Tremayne,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Tremayne,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Tremayne,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Tremayne,male,AA_US,Hospitality,job31.txt,resume33.txt,18,19,8,20
+Tremayne,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Tremayne,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,2,15
+Tremayne,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Tremayne,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Tremayne,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Tremayne,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Kareem,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Kareem,male,AA_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Kareem,male,AA_US,Admin,job11.txt,resume13.txt,13,18,6,22
+Kareem,male,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Kareem,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Kareem,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Kareem,male,AA_US,Admin,job13.txt,resume11.txt,15,18,5,20
+Kareem,male,AA_US,Admin,job13.txt,resume12.txt,8,10,3,12
+Kareem,male,AA_US,Admin,job13.txt,resume13.txt,17,18,6,20
+Kareem,male,AA_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Kareem,male,AA_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Kareem,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume22.txt,10,11,3,16
+Kareem,male,AA_US,Call Centre,job22.txt,resume23.txt,18,17,10,22
+Kareem,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Kareem,male,AA_US,Call Centre,job23.txt,resume22.txt,18,18,10,20
+Kareem,male,AA_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Kareem,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Kareem,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Kareem,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,19
+Kareem,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Kareem,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,3,15
+Kareem,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,12,22
+Darnell,male,AA_US,Admin,job11.txt,resume11.txt,5,12,6,22
+Darnell,male,AA_US,Admin,job11.txt,resume12.txt,5,10,3,15
+Darnell,male,AA_US,Admin,job11.txt,resume13.txt,8,12,5,20
+Darnell,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Darnell,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Darnell,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Darnell,male,AA_US,Admin,job13.txt,resume11.txt,18,18,8,20
+Darnell,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Darnell,male,AA_US,Admin,job13.txt,resume13.txt,18,18,8,22
+Darnell,male,AA_US,Call Centre,job21.txt,resume21.txt,20,18,22,22
+Darnell,male,AA_US,Call Centre,job21.txt,resume22.txt,10,13,6,16
+Darnell,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,15
+Darnell,male,AA_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Darnell,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Darnell,male,AA_US,Call Centre,job23.txt,resume22.txt,12,16,6,18
+Darnell,male,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Darnell,male,AA_US,Hospitality,job31.txt,resume31.txt,18,22,5,20
+Darnell,male,AA_US,Hospitality,job31.txt,resume32.txt,12,18,4,18
+Darnell,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,18
+Darnell,male,AA_US,Hospitality,job32.txt,resume31.txt,20,18,5,18
+Darnell,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Darnell,male,AA_US,Hospitality,job32.txt,resume33.txt,18,20,6,21
+Darnell,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Tyrone,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Tyrone,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Tyrone,male,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Tyrone,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Tyrone,male,AA_US,Admin,job12.txt,resume12.txt,16,18,6,14
+Tyrone,male,AA_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Tyrone,male,AA_US,Admin,job13.txt,resume11.txt,16,18,6,20
+Tyrone,male,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Tyrone,male,AA_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Tyrone,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Tyrone,male,AA_US,Call Centre,job21.txt,resume22.txt,15,14,6,18
+Tyrone,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Tyrone,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Tyrone,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,15
+Tyrone,male,AA_US,Call Centre,job22.txt,resume23.txt,18,19,14,22
+Tyrone,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Tyrone,male,AA_US,Call Centre,job23.txt,resume22.txt,14,17,6,18
+Tyrone,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Tyrone,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Tyrone,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Tyrone,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,19
+Tyrone,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Tyrone,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,4,16
+Tyrone,male,AA_US,Hospitality,job32.txt,resume33.txt,10,15,5,18
+Tyrone,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,19
+Tyrone,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Tyrone,male,AA_US,Hospitality,job33.txt,resume33.txt,24,23,10,22
+Jamal,male,AA_US,Admin,job11.txt,resume11.txt,8,12,6,20
+Jamal,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Jamal,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Jamal,male,AA_US,Admin,job12.txt,resume11.txt,22,21,10,22
+Jamal,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,17
+Jamal,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Jamal,male,AA_US,Admin,job13.txt,resume11.txt,18,19,8,22
+Jamal,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jamal,male,AA_US,Admin,job13.txt,resume13.txt,15,18,8,22
+Jamal,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Jamal,male,AA_US,Call Centre,job21.txt,resume22.txt,10,13,6,16
+Jamal,male,AA_US,Call Centre,job21.txt,resume23.txt,14,18,16,22
+Jamal,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Jamal,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Jamal,male,AA_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Jamal,male,AA_US,Call Centre,job23.txt,resume21.txt,23,22,21,22
+Jamal,male,AA_US,Call Centre,job23.txt,resume22.txt,13,15,6,16
+Jamal,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Jamal,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Jamal,male,AA_US,Hospitality,job31.txt,resume32.txt,18,18,5,19
+Jamal,male,AA_US,Hospitality,job31.txt,resume33.txt,17,18,6,20
+Jamal,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Jamal,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,16
+Jamal,male,AA_US,Hospitality,job32.txt,resume33.txt,20,20,8,18
+Jamal,male,AA_US,Hospitality,job33.txt,resume31.txt,22,24,8,20
+Jamal,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Jamal,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,23
+Hakim,male,AA_US,Admin,job11.txt,resume11.txt,10,15,6,22
+Hakim,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Hakim,male,AA_US,Admin,job11.txt,resume13.txt,8,13,5,20
+Hakim,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Hakim,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,17
+Hakim,male,AA_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Hakim,male,AA_US,Admin,job13.txt,resume11.txt,13,17,6,20
+Hakim,male,AA_US,Admin,job13.txt,resume12.txt,6,8,2,10
+Hakim,male,AA_US,Admin,job13.txt,resume13.txt,16,18,6,20
+Hakim,male,AA_US,Call Centre,job21.txt,resume21.txt,20,18,20,22
+Hakim,male,AA_US,Call Centre,job21.txt,resume22.txt,13,15,6,18
+Hakim,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Hakim,male,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Hakim,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Hakim,male,AA_US,Call Centre,job23.txt,resume22.txt,14,18,8,18
+Hakim,male,AA_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Hakim,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Hakim,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,2,18
+Hakim,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,19
+Hakim,male,AA_US,Hospitality,job32.txt,resume31.txt,15,20,5,18
+Hakim,male,AA_US,Hospitality,job32.txt,resume32.txt,10,15,3,17
+Hakim,male,AA_US,Hospitality,job32.txt,resume33.txt,15,17,5,18
+Hakim,male,AA_US,Hospitality,job33.txt,resume31.txt,23,23,8,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Leroy,male,AA_US,Admin,job11.txt,resume11.txt,5,12,6,20
+Leroy,male,AA_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Leroy,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Leroy,male,AA_US,Admin,job12.txt,resume11.txt,22,23,12,22
+Leroy,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Leroy,male,AA_US,Admin,job12.txt,resume13.txt,20,23,10,22
+Leroy,male,AA_US,Admin,job13.txt,resume11.txt,18,17,8,20
+Leroy,male,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Leroy,male,AA_US,Admin,job13.txt,resume13.txt,17,18,6,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,18
+Leroy,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Leroy,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Leroy,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Leroy,male,AA_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Leroy,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Leroy,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Leroy,male,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Leroy,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,19
+Leroy,male,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,17
+Leroy,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,18
+Leroy,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Leroy,male,AA_US,Hospitality,job32.txt,resume32.txt,8,12,2,14
+Leroy,male,AA_US,Hospitality,job32.txt,resume33.txt,10,14,6,18
+Leroy,male,AA_US,Hospitality,job33.txt,resume31.txt,22,24,8,20
+Leroy,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Leroy,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,12,22
+Jermaine,male,AA_US,Admin,job11.txt,resume11.txt,8,12,6,20
+Jermaine,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,9
+Jermaine,male,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Jermaine,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Jermaine,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Jermaine,male,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Jermaine,male,AA_US,Admin,job13.txt,resume11.txt,18,18,10,21
+Jermaine,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jermaine,male,AA_US,Admin,job13.txt,resume13.txt,15,18,5,20
+Jermaine,male,AA_US,Call Centre,job21.txt,resume21.txt,20,19,22,22
+Jermaine,male,AA_US,Call Centre,job21.txt,resume22.txt,10,12,6,16
+Jermaine,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Jermaine,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Jermaine,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,18
+Jermaine,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,12,22
+Jermaine,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jermaine,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Jermaine,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Jermaine,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Jermaine,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Jermaine,male,AA_US,Hospitality,job31.txt,resume33.txt,20,20,6,19
+Jermaine,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Jermaine,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,15
+Jermaine,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Jermaine,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Jermaine,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,10,20
+Jermaine,male,AA_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Emily,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Emily,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Emily,female,White_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Emily,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Emily,female,White_US,Admin,job12.txt,resume12.txt,15,18,5,15
+Emily,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Emily,female,White_US,Admin,job13.txt,resume11.txt,18,17,6,21
+Emily,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Emily,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Emily,female,White_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Emily,female,White_US,Call Centre,job21.txt,resume22.txt,13,14,6,18
+Emily,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Emily,female,White_US,Call Centre,job22.txt,resume21.txt,18,20,21,22
+Emily,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Emily,female,White_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Emily,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Emily,female,White_US,Call Centre,job23.txt,resume22.txt,14,18,8,18
+Emily,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Emily,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,8,20
+Emily,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Emily,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Emily,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Emily,female,White_US,Hospitality,job32.txt,resume32.txt,10,14,2,14
+Emily,female,White_US,Hospitality,job32.txt,resume33.txt,12,18,5,19
+Emily,female,White_US,Hospitality,job33.txt,resume31.txt,24,24,10,20
+Emily,female,White_US,Hospitality,job33.txt,resume32.txt,20,20,5,18
+Emily,female,White_US,Hospitality,job33.txt,resume33.txt,23,24,9,21
+Anne,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Anne,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,11
+Anne,female,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Anne,female,White_US,Admin,job12.txt,resume11.txt,20,22,10,22
+Anne,female,White_US,Admin,job12.txt,resume12.txt,18,20,8,18
+Anne,female,White_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Anne,female,White_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Anne,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Anne,female,White_US,Admin,job13.txt,resume13.txt,18,19,6,21
+Anne,female,White_US,Call Centre,job21.txt,resume21.txt,21,20,19,22
+Anne,female,White_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Anne,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,12,22
+Anne,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,20
+Anne,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Anne,female,White_US,Call Centre,job22.txt,resume23.txt,18,17,10,21
+Anne,female,White_US,Call Centre,job23.txt,resume21.txt,23,24,22,22
+Anne,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Anne,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,16,22
+Anne,female,White_US,Hospitality,job31.txt,resume31.txt,18,22,8,20
+Anne,female,White_US,Hospitality,job31.txt,resume32.txt,12,15,3,18
+Anne,female,White_US,Hospitality,job31.txt,resume33.txt,20,21,10,20
+Anne,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Anne,female,White_US,Hospitality,job32.txt,resume32.txt,10,14,4,16
+Anne,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,19
+Anne,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Anne,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Anne,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,21
+Jill,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Jill,female,White_US,Admin,job11.txt,resume12.txt,8,10,2,10
+Jill,female,White_US,Admin,job11.txt,resume13.txt,10,14,3,20
+Jill,female,White_US,Admin,job12.txt,resume11.txt,22,22,14,23
+Jill,female,White_US,Admin,job12.txt,resume12.txt,17,18,5,14
+Jill,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Jill,female,White_US,Admin,job13.txt,resume11.txt,18,17,8,20
+Jill,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jill,female,White_US,Admin,job13.txt,resume13.txt,18,19,6,20
+Jill,female,White_US,Call Centre,job21.txt,resume21.txt,21,20,22,23
+Jill,female,White_US,Call Centre,job21.txt,resume22.txt,15,18,8,20
+Jill,female,White_US,Call Centre,job21.txt,resume23.txt,16,18,14,22
+Jill,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,21,22
+Jill,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,6,15
+Jill,female,White_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Jill,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jill,female,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Jill,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Jill,female,White_US,Hospitality,job31.txt,resume31.txt,18,19,6,20
+Jill,female,White_US,Hospitality,job31.txt,resume32.txt,18,18,4,18
+Jill,female,White_US,Hospitality,job31.txt,resume33.txt,17,20,5,20
+Jill,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Jill,female,White_US,Hospitality,job32.txt,resume32.txt,10,14,4,18
+Jill,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Jill,female,White_US,Hospitality,job33.txt,resume31.txt,24,23,8,22
+Jill,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Jill,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Allison,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Allison,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Allison,female,White_US,Admin,job11.txt,resume13.txt,10,14,5,21
+Allison,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Allison,female,White_US,Admin,job12.txt,resume12.txt,18,20,8,17
+Allison,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Allison,female,White_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Allison,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Allison,female,White_US,Admin,job13.txt,resume13.txt,18,17,8,21
+Allison,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Allison,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Allison,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,15,22
+Allison,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Allison,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,5,17
+Allison,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Allison,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Allison,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Allison,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,16,22
+Allison,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,5,20
+Allison,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,4,17
+Allison,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Allison,female,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,20
+Allison,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,18
+Allison,female,White_US,Hospitality,job32.txt,resume33.txt,13,16,6,18
+Allison,female,White_US,Hospitality,job33.txt,resume31.txt,23,23,10,22
+Allison,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Allison,female,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Sarah,female,White_US,Admin,job11.txt,resume11.txt,10,13,6,20
+Sarah,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,8
+Sarah,female,White_US,Admin,job11.txt,resume13.txt,8,12,5,20
+Sarah,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Sarah,female,White_US,Admin,job12.txt,resume12.txt,18,19,6,16
+Sarah,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Sarah,female,White_US,Admin,job13.txt,resume11.txt,16,18,8,22
+Sarah,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Sarah,female,White_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Sarah,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Sarah,female,White_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Sarah,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,21
+Sarah,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Sarah,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,15
+Sarah,female,White_US,Call Centre,job22.txt,resume23.txt,16,18,10,22
+Sarah,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Sarah,female,White_US,Call Centre,job23.txt,resume22.txt,13,15,6,17
+Sarah,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Sarah,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Sarah,female,White_US,Hospitality,job31.txt,resume32.txt,10,15,2,18
+Sarah,female,White_US,Hospitality,job31.txt,resume33.txt,20,20,8,20
+Sarah,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Sarah,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,18
+Sarah,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Sarah,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Sarah,female,White_US,Hospitality,job33.txt,resume32.txt,18,22,6,20
+Sarah,female,White_US,Hospitality,job33.txt,resume33.txt,23,24,12,22
+Meredith,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Meredith,female,White_US,Admin,job11.txt,resume12.txt,5,12,2,10
+Meredith,female,White_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Meredith,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Meredith,female,White_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Meredith,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Meredith,female,White_US,Admin,job13.txt,resume11.txt,18,18,8,22
+Meredith,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Meredith,female,White_US,Admin,job13.txt,resume13.txt,18,17,5,22
+Meredith,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,19,22
+Meredith,female,White_US,Call Centre,job21.txt,resume22.txt,16,17,8,18
+Meredith,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Meredith,female,White_US,Call Centre,job22.txt,resume21.txt,20,18,19,22
+Meredith,female,White_US,Call Centre,job22.txt,resume22.txt,10,14,5,16
+Meredith,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Meredith,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Meredith,female,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Meredith,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Meredith,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Meredith,female,White_US,Hospitality,job31.txt,resume32.txt,18,20,6,18
+Meredith,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,21
+Meredith,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,8,18
+Meredith,female,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,15
+Meredith,female,White_US,Hospitality,job32.txt,resume33.txt,10,14,5,20
+Meredith,female,White_US,Hospitality,job33.txt,resume31.txt,22,24,8,20
+Meredith,female,White_US,Hospitality,job33.txt,resume32.txt,18,22,6,20
+Meredith,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Laurie,female,White_US,Admin,job11.txt,resume11.txt,8,13,6,20
+Laurie,female,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Laurie,female,White_US,Admin,job11.txt,resume13.txt,12,15,6,21
+Laurie,female,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Laurie,female,White_US,Admin,job12.txt,resume12.txt,15,18,5,14
+Laurie,female,White_US,Admin,job12.txt,resume13.txt,23,23,10,22
+Laurie,female,White_US,Admin,job13.txt,resume11.txt,18,19,8,22
+Laurie,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Laurie,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Laurie,female,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Laurie,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,8,18
+Laurie,female,White_US,Call Centre,job21.txt,resume23.txt,17,18,14,22
+Laurie,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Laurie,female,White_US,Call Centre,job22.txt,resume22.txt,10,11,5,18
+Laurie,female,White_US,Call Centre,job22.txt,resume23.txt,16,18,10,20
+Laurie,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Laurie,female,White_US,Call Centre,job23.txt,resume22.txt,16,18,8,18
+Laurie,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Laurie,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Laurie,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Laurie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Laurie,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Laurie,female,White_US,Hospitality,job32.txt,resume32.txt,10,12,2,16
+Laurie,female,White_US,Hospitality,job32.txt,resume33.txt,10,18,5,18
+Laurie,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Laurie,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Laurie,female,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,20
+Carrie,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Carrie,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Carrie,female,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Carrie,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Carrie,female,White_US,Admin,job12.txt,resume12.txt,18,20,5,18
+Carrie,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Carrie,female,White_US,Admin,job13.txt,resume11.txt,15,18,6,22
+Carrie,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Carrie,female,White_US,Admin,job13.txt,resume13.txt,16,17,6,21
+Carrie,female,White_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Carrie,female,White_US,Call Centre,job21.txt,resume22.txt,12,15,8,18
+Carrie,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Carrie,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,21
+Carrie,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,14
+Carrie,female,White_US,Call Centre,job22.txt,resume23.txt,12,15,10,19
+Carrie,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Carrie,female,White_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Carrie,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Carrie,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Carrie,female,White_US,Hospitality,job31.txt,resume32.txt,12,14,4,18
+Carrie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,19
+Carrie,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Carrie,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,16
+Carrie,female,White_US,Hospitality,job32.txt,resume33.txt,15,17,5,18
+Carrie,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Carrie,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Carrie,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Kristen,female,White_US,Admin,job11.txt,resume11.txt,10,15,8,20
+Kristen,female,White_US,Admin,job11.txt,resume12.txt,5,8,3,11
+Kristen,female,White_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Kristen,female,White_US,Admin,job12.txt,resume11.txt,23,23,11,22
+Kristen,female,White_US,Admin,job12.txt,resume12.txt,15,18,6,14
+Kristen,female,White_US,Admin,job12.txt,resume13.txt,22,23,14,23
+Kristen,female,White_US,Admin,job13.txt,resume11.txt,14,18,6,20
+Kristen,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,12
+Kristen,female,White_US,Admin,job13.txt,resume13.txt,16,18,8,22
+Kristen,female,White_US,Call Centre,job21.txt,resume21.txt,22,20,23,22
+Kristen,female,White_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Kristen,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,21
+Kristen,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Kristen,female,White_US,Call Centre,job22.txt,resume22.txt,10,14,6,14
+Kristen,female,White_US,Call Centre,job22.txt,resume23.txt,16,18,12,21
+Kristen,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Kristen,female,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Kristen,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,17,22
+Kristen,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,19
+Kristen,female,White_US,Hospitality,job31.txt,resume32.txt,10,14,4,18
+Kristen,female,White_US,Hospitality,job31.txt,resume33.txt,20,20,10,22
+Kristen,female,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Kristen,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,18
+Kristen,female,White_US,Hospitality,job32.txt,resume33.txt,12,15,6,18
+Kristen,female,White_US,Hospitality,job33.txt,resume31.txt,23,25,8,20
+Kristen,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Kristen,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Neil,male,White_US,Admin,job11.txt,resume11.txt,5,15,8,20
+Neil,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Neil,male,White_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Neil,male,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Neil,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Neil,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Neil,male,White_US,Admin,job13.txt,resume11.txt,15,18,8,20
+Neil,male,White_US,Admin,job13.txt,resume12.txt,5,7,2,10
+Neil,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Neil,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Neil,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Neil,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Neil,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,20
+Neil,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Neil,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Neil,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Neil,male,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Neil,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Neil,male,White_US,Hospitality,job31.txt,resume31.txt,18,22,6,20
+Neil,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Neil,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Neil,male,White_US,Hospitality,job32.txt,resume31.txt,20,20,5,18
+Neil,male,White_US,Hospitality,job32.txt,resume32.txt,10,12,4,15
+Neil,male,White_US,Hospitality,job32.txt,resume33.txt,10,18,6,20
+Neil,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Neil,male,White_US,Hospitality,job33.txt,resume32.txt,18,21,6,20
+Neil,male,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Geoffrey,male,White_US,Admin,job11.txt,resume11.txt,10,14,6,18
+Geoffrey,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Geoffrey,male,White_US,Admin,job11.txt,resume13.txt,8,12,5,20
+Geoffrey,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Geoffrey,male,White_US,Admin,job12.txt,resume12.txt,18,20,8,17
+Geoffrey,male,White_US,Admin,job12.txt,resume13.txt,22,24,10,22
+Geoffrey,male,White_US,Admin,job13.txt,resume11.txt,13,15,6,20
+Geoffrey,male,White_US,Admin,job13.txt,resume12.txt,10,11,2,12
+Geoffrey,male,White_US,Admin,job13.txt,resume13.txt,16,18,6,21
+Geoffrey,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Geoffrey,male,White_US,Call Centre,job21.txt,resume22.txt,14,16,8,18
+Geoffrey,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Geoffrey,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Geoffrey,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,15
+Geoffrey,male,White_US,Call Centre,job22.txt,resume23.txt,18,19,12,22
+Geoffrey,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,23
+Geoffrey,male,White_US,Call Centre,job23.txt,resume22.txt,15,18,6,18
+Geoffrey,male,White_US,Call Centre,job23.txt,resume23.txt,22,22,15,20
+Geoffrey,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,19
+Geoffrey,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Geoffrey,male,White_US,Hospitality,job32.txt,resume32.txt,6,12,2,15
+Geoffrey,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,18
+Geoffrey,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Geoffrey,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Geoffrey,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Brett,male,White_US,Admin,job11.txt,resume11.txt,8,14,6,20
+Brett,male,White_US,Admin,job11.txt,resume12.txt,10,13,4,10
+Brett,male,White_US,Admin,job11.txt,resume13.txt,5,12,4,20
+Brett,male,White_US,Admin,job12.txt,resume11.txt,22,22,10,23
+Brett,male,White_US,Admin,job12.txt,resume12.txt,18,18,6,15
+Brett,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Brett,male,White_US,Admin,job13.txt,resume11.txt,18,17,8,21
+Brett,male,White_US,Admin,job13.txt,resume12.txt,7,10,3,10
+Brett,male,White_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Brett,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Brett,male,White_US,Call Centre,job21.txt,resume22.txt,10,14,6,18
+Brett,male,White_US,Call Centre,job21.txt,resume23.txt,14,18,12,22
+Brett,male,White_US,Call Centre,job22.txt,resume21.txt,15,18,19,20
+Brett,male,White_US,Call Centre,job22.txt,resume22.txt,10,13,5,15
+Brett,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Brett,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Brett,male,White_US,Call Centre,job23.txt,resume22.txt,12,15,5,18
+Brett,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,17,22
+Brett,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Brett,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Brett,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Brett,male,White_US,Hospitality,job32.txt,resume31.txt,18,22,5,20
+Brett,male,White_US,Hospitality,job32.txt,resume32.txt,12,15,3,18
+Brett,male,White_US,Hospitality,job32.txt,resume33.txt,12,18,6,20
+Brett,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Brett,male,White_US,Hospitality,job33.txt,resume32.txt,18,22,6,18
+Brett,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Brendan,male,White_US,Admin,job11.txt,resume11.txt,10,16,6,21
+Brendan,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,11
+Brendan,male,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Brendan,male,White_US,Admin,job12.txt,resume11.txt,22,23,14,22
+Brendan,male,White_US,Admin,job12.txt,resume12.txt,18,19,5,18
+Brendan,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Brendan,male,White_US,Admin,job13.txt,resume11.txt,15,18,8,20
+Brendan,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Brendan,male,White_US,Admin,job13.txt,resume13.txt,18,17,6,20
+Brendan,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Brendan,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Brendan,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Brendan,male,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Brendan,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,6,15
+Brendan,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Brendan,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,21,22
+Brendan,male,White_US,Call Centre,job23.txt,resume22.txt,13,16,7,18
+Brendan,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,14,22
+Brendan,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Brendan,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Brendan,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,7,20
+Brendan,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Brendan,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Brendan,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,8,19
+Brendan,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,22
+Brendan,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Brendan,male,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,21
+Greg,male,White_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Greg,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Greg,male,White_US,Admin,job11.txt,resume13.txt,10,14,6,22
+Greg,male,White_US,Admin,job12.txt,resume11.txt,23,22,12,22
+Greg,male,White_US,Admin,job12.txt,resume12.txt,14,18,4,16
+Greg,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Greg,male,White_US,Admin,job13.txt,resume11.txt,16,17,8,20
+Greg,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Greg,male,White_US,Admin,job13.txt,resume13.txt,17,18,6,22
+Greg,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Greg,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Greg,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,21
+Greg,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Greg,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Greg,male,White_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Greg,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Greg,male,White_US,Call Centre,job23.txt,resume22.txt,15,17,8,18
+Greg,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Greg,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Greg,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Greg,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,10,21
+Greg,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Greg,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,16
+Greg,male,White_US,Hospitality,job32.txt,resume33.txt,10,14,5,18
+Greg,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Greg,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Greg,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Todd,male,White_US,Admin,job11.txt,resume11.txt,8,15,5,20
+Todd,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Todd,male,White_US,Admin,job11.txt,resume13.txt,5,12,3,20
+Todd,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Todd,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Todd,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Todd,male,White_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Todd,male,White_US,Admin,job13.txt,resume12.txt,5,10,2,10
+Todd,male,White_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Todd,male,White_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Todd,male,White_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Todd,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Todd,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Todd,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,3,14
+Todd,male,White_US,Call Centre,job22.txt,resume23.txt,13,18,12,20
+Todd,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,21,22
+Todd,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Todd,male,White_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Todd,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Todd,male,White_US,Hospitality,job31.txt,resume32.txt,12,15,5,18
+Todd,male,White_US,Hospitality,job31.txt,resume33.txt,20,20,10,20
+Todd,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Todd,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,14
+Todd,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,18
+Todd,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,6,18
+Todd,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Todd,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,20
+Matthew,male,White_US,Admin,job11.txt,resume11.txt,5,10,4,20
+Matthew,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,13
+Matthew,male,White_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Matthew,male,White_US,Admin,job12.txt,resume11.txt,22,22,12,22
+Matthew,male,White_US,Admin,job12.txt,resume12.txt,18,19,5,18
+Matthew,male,White_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Matthew,male,White_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Matthew,male,White_US,Admin,job13.txt,resume12.txt,5,10,2,10
+Matthew,male,White_US,Admin,job13.txt,resume13.txt,18,19,6,21
+Matthew,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Matthew,male,White_US,Call Centre,job21.txt,resume22.txt,12,18,8,18
+Matthew,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Matthew,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,20
+Matthew,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,3,15
+Matthew,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Matthew,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Matthew,male,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Matthew,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Matthew,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Matthew,male,White_US,Hospitality,job31.txt,resume32.txt,10,18,4,18
+Matthew,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Matthew,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Matthew,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,14
+Matthew,male,White_US,Hospitality,job32.txt,resume33.txt,18,20,6,20
+Matthew,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Matthew,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,5,18
+Matthew,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Jay,male,White_US,Admin,job11.txt,resume11.txt,15,17,8,21
+Jay,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Jay,male,White_US,Admin,job11.txt,resume13.txt,10,14,5,21
+Jay,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Jay,male,White_US,Admin,job12.txt,resume12.txt,18,19,8,17
+Jay,male,White_US,Admin,job12.txt,resume13.txt,20,23,10,23
+Jay,male,White_US,Admin,job13.txt,resume11.txt,16,18,8,22
+Jay,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jay,male,White_US,Admin,job13.txt,resume13.txt,17,18,6,20
+Jay,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,21
+Jay,male,White_US,Call Centre,job21.txt,resume22.txt,16,17,8,18
+Jay,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Jay,male,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Jay,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,6,18
+Jay,male,White_US,Call Centre,job22.txt,resume23.txt,18,17,10,21
+Jay,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jay,male,White_US,Call Centre,job23.txt,resume22.txt,12,15,8,18
+Jay,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Jay,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Jay,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Jay,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jay,male,White_US,Hospitality,job32.txt,resume31.txt,15,18,6,18
+Jay,male,White_US,Hospitality,job32.txt,resume32.txt,10,14,2,16
+Jay,male,White_US,Hospitality,job32.txt,resume33.txt,10,14,4,18
+Jay,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Jay,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Jay,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Brad,male,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Brad,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Brad,male,White_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Brad,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Brad,male,White_US,Admin,job12.txt,resume12.txt,18,18,6,16
+Brad,male,White_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Brad,male,White_US,Admin,job13.txt,resume11.txt,15,17,8,20
+Brad,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Brad,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Brad,male,White_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Brad,male,White_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Brad,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Brad,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Brad,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Brad,male,White_US,Call Centre,job22.txt,resume23.txt,14,15,10,20
+Brad,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,21
+Brad,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Brad,male,White_US,Call Centre,job23.txt,resume23.txt,24,23,18,22
+Brad,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,8,20
+Brad,male,White_US,Hospitality,job31.txt,resume32.txt,12,15,5,18
+Brad,male,White_US,Hospitality,job31.txt,resume33.txt,18,19,6,20
+Brad,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Brad,male,White_US,Hospitality,job32.txt,resume32.txt,10,14,2,15
+Brad,male,White_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Brad,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Brad,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Brad,male,White_US,Hospitality,job33.txt,resume33.txt,20,22,10,20
+Aisha,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Aisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Aisha,female,AA_US,Admin,job11.txt,resume13.txt,9,14,6,20
+Aisha,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Aisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,8,15
+Aisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Aisha,female,AA_US,Admin,job13.txt,resume11.txt,18,19,8,21
+Aisha,female,AA_US,Admin,job13.txt,resume12.txt,10,11,3,15
+Aisha,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Aisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Aisha,female,AA_US,Call Centre,job21.txt,resume22.txt,18,17,8,18
+Aisha,female,AA_US,Call Centre,job21.txt,resume23.txt,16,18,14,22
+Aisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Aisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,18
+Aisha,female,AA_US,Call Centre,job22.txt,resume23.txt,18,19,14,22
+Aisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Aisha,female,AA_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Aisha,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,16,22
+Aisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,21,6,20
+Aisha,female,AA_US,Hospitality,job31.txt,resume32.txt,12,15,2,18
+Aisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,18
+Aisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Aisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,18
+Aisha,female,AA_US,Hospitality,job32.txt,resume33.txt,14,18,6,19
+Aisha,female,AA_US,Hospitality,job33.txt,resume31.txt,22,24,8,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Keisha,female,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Keisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Keisha,female,AA_US,Admin,job11.txt,resume13.txt,10,18,6,22
+Keisha,female,AA_US,Admin,job12.txt,resume11.txt,22,23,10,23
+Keisha,female,AA_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Keisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Keisha,female,AA_US,Admin,job13.txt,resume11.txt,15,17,8,20
+Keisha,female,AA_US,Admin,job13.txt,resume12.txt,6,8,2,10
+Keisha,female,AA_US,Admin,job13.txt,resume13.txt,15,18,6,20
+Keisha,female,AA_US,Call Centre,job21.txt,resume21.txt,20,20,22,23
+Keisha,female,AA_US,Call Centre,job21.txt,resume22.txt,8,10,5,16
+Keisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Keisha,female,AA_US,Call Centre,job22.txt,resume21.txt,16,18,20,20
+Keisha,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,14
+Keisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Keisha,female,AA_US,Call Centre,job23.txt,resume21.txt,23,24,22,22
+Keisha,female,AA_US,Call Centre,job23.txt,resume22.txt,16,17,6,18
+Keisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Keisha,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Keisha,female,AA_US,Hospitality,job31.txt,resume32.txt,13,17,4,18
+Keisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,19,8,20
+Keisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Keisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Keisha,female,AA_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Keisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,19
+Keisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Keisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Tamika,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Tamika,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Tamika,female,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Tamika,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Tamika,female,AA_US,Admin,job12.txt,resume12.txt,15,18,5,14
+Tamika,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Tamika,female,AA_US,Admin,job13.txt,resume11.txt,16,18,6,20
+Tamika,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,14
+Tamika,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Tamika,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Tamika,female,AA_US,Call Centre,job21.txt,resume22.txt,15,16,6,18
+Tamika,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Tamika,female,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,20
+Tamika,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Tamika,female,AA_US,Call Centre,job23.txt,resume22.txt,15,17,6,18
+Tamika,female,AA_US,Call Centre,job23.txt,resume23.txt,21,22,16,22
+Tamika,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Tamika,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Tamika,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Tamika,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Tamika,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,18
+Tamika,female,AA_US,Hospitality,job32.txt,resume33.txt,10,15,5,18
+Tamika,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Lakisha,female,AA_US,Admin,job11.txt,resume11.txt,8,14,6,21
+Lakisha,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Lakisha,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Lakisha,female,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Lakisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Lakisha,female,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Lakisha,female,AA_US,Admin,job13.txt,resume11.txt,18,19,10,21
+Lakisha,female,AA_US,Admin,job13.txt,resume12.txt,8,10,4,10
+Lakisha,female,AA_US,Admin,job13.txt,resume13.txt,18,19,6,21
+Lakisha,female,AA_US,Call Centre,job21.txt,resume21.txt,20,19,22,23
+Lakisha,female,AA_US,Call Centre,job21.txt,resume22.txt,10,13,6,18
+Lakisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Lakisha,female,AA_US,Call Centre,job22.txt,resume21.txt,20,18,20,22
+Lakisha,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,6,18
+Lakisha,female,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Lakisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Lakisha,female,AA_US,Call Centre,job23.txt,resume22.txt,15,18,10,18
+Lakisha,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Lakisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Lakisha,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,16
+Lakisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Lakisha,female,AA_US,Hospitality,job32.txt,resume31.txt,20,22,6,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume32.txt,8,10,2,14
+Lakisha,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,18
+Lakisha,female,AA_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Lakisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,18
+Lakisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,23,10,21
+Tanisha,female,AA_US,Admin,job11.txt,resume11.txt,12,15,6,20
+Tanisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Tanisha,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Tanisha,female,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Tanisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Tanisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Tanisha,female,AA_US,Admin,job13.txt,resume11.txt,18,19,8,22
+Tanisha,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Tanisha,female,AA_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Tanisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Tanisha,female,AA_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Tanisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Tanisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Tanisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Tanisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Tanisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Tanisha,female,AA_US,Call Centre,job23.txt,resume22.txt,13,18,6,18
+Tanisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,14,22
+Tanisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Tanisha,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,4,18
+Tanisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Tanisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Tanisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,18
+Tanisha,female,AA_US,Hospitality,job32.txt,resume33.txt,13,16,6,18
+Tanisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Latoya,female,AA_US,Admin,job11.txt,resume11.txt,8,14,6,21
+Latoya,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Latoya,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Latoya,female,AA_US,Admin,job12.txt,resume11.txt,22,23,14,23
+Latoya,female,AA_US,Admin,job12.txt,resume12.txt,14,18,5,15
+Latoya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Latoya,female,AA_US,Admin,job13.txt,resume11.txt,18,18,10,22
+Latoya,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Latoya,female,AA_US,Admin,job13.txt,resume13.txt,18,19,6,21
+Latoya,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Latoya,female,AA_US,Call Centre,job21.txt,resume22.txt,12,14,5,17
+Latoya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Latoya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,21,20
+Latoya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,14
+Latoya,female,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Latoya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Latoya,female,AA_US,Call Centre,job23.txt,resume22.txt,13,17,7,18
+Latoya,female,AA_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Latoya,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,18
+Latoya,female,AA_US,Hospitality,job31.txt,resume32.txt,10,15,2,18
+Latoya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Latoya,female,AA_US,Hospitality,job32.txt,resume31.txt,10,18,3,18
+Latoya,female,AA_US,Hospitality,job32.txt,resume32.txt,10,13,3,14
+Latoya,female,AA_US,Hospitality,job32.txt,resume33.txt,14,18,6,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume31.txt,24,24,6,21
+Latoya,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,23,8,21
+Kenya,female,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Kenya,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Kenya,female,AA_US,Admin,job11.txt,resume13.txt,10,14,4,21
+Kenya,female,AA_US,Admin,job12.txt,resume11.txt,21,22,10,22
+Kenya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Kenya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Kenya,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Kenya,female,AA_US,Admin,job13.txt,resume12.txt,5,7,2,10
+Kenya,female,AA_US,Admin,job13.txt,resume13.txt,16,18,6,22
+Kenya,female,AA_US,Call Centre,job21.txt,resume21.txt,20,19,22,22
+Kenya,female,AA_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Kenya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,16
+Kenya,female,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,22
+Kenya,female,AA_US,Call Centre,job23.txt,resume21.txt,25,23,22,23
+Kenya,female,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Kenya,female,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Kenya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Kenya,female,AA_US,Hospitality,job31.txt,resume32.txt,10,12,3,15
+Kenya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,19,8,20
+Kenya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Kenya,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,4,15
+Kenya,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,18
+Kenya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Kenya,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Kenya,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Latonya,female,AA_US,Admin,job11.txt,resume11.txt,8,13,5,20
+Latonya,female,AA_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Latonya,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Latonya,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Latonya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,5,16
+Latonya,female,AA_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Latonya,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,21
+Latonya,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,12
+Latonya,female,AA_US,Admin,job13.txt,resume13.txt,13,15,5,20
+Latonya,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Latonya,female,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,19
+Latonya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Latonya,female,AA_US,Call Centre,job22.txt,resume23.txt,14,18,12,22
+Latonya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Latonya,female,AA_US,Call Centre,job23.txt,resume22.txt,10,14,6,18
+Latonya,female,AA_US,Call Centre,job23.txt,resume23.txt,22,22,15,22
+Latonya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Latonya,female,AA_US,Hospitality,job31.txt,resume32.txt,12,16,4,18
+Latonya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,7,19
+Latonya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Latonya,female,AA_US,Hospitality,job32.txt,resume32.txt,12,15,3,15
+Latonya,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Latonya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,5,20
+Latonya,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Latonya,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Ebony,female,AA_US,Admin,job11.txt,resume11.txt,8,12,3,20
+Ebony,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,9
+Ebony,female,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Ebony,female,AA_US,Admin,job12.txt,resume11.txt,22,23,14,23
+Ebony,female,AA_US,Admin,job12.txt,resume12.txt,18,20,8,17
+Ebony,female,AA_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Ebony,female,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Ebony,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Ebony,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Ebony,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Ebony,female,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,17
+Ebony,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Ebony,female,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Ebony,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Ebony,female,AA_US,Call Centre,job23.txt,resume22.txt,16,18,8,18
+Ebony,female,AA_US,Call Centre,job23.txt,resume23.txt,22,22,15,22
+Ebony,female,AA_US,Hospitality,job31.txt,resume31.txt,18,21,6,20
+Ebony,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,18
+Ebony,female,AA_US,Hospitality,job31.txt,resume33.txt,20,22,8,20
+Ebony,female,AA_US,Hospitality,job32.txt,resume31.txt,20,22,8,20
+Ebony,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,16
+Ebony,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,5,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Ebony,female,AA_US,Hospitality,job33.txt,resume33.txt,20,23,10,22
+Rasheed,male,AA_US,Admin,job11.txt,resume11.txt,9,14,6,20
+Rasheed,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Rasheed,male,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Rasheed,male,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Rasheed,male,AA_US,Admin,job12.txt,resume12.txt,15,18,6,14
+Rasheed,male,AA_US,Admin,job12.txt,resume13.txt,20,23,8,22
+Rasheed,male,AA_US,Admin,job13.txt,resume11.txt,18,18,8,20
+Rasheed,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Rasheed,male,AA_US,Admin,job13.txt,resume13.txt,18,19,7,21
+Rasheed,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Rasheed,male,AA_US,Call Centre,job21.txt,resume22.txt,15,14,6,18
+Rasheed,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Rasheed,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Rasheed,male,AA_US,Call Centre,job22.txt,resume22.txt,10,11,5,15
+Rasheed,male,AA_US,Call Centre,job22.txt,resume23.txt,12,14,10,18
+Rasheed,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Rasheed,male,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Rasheed,male,AA_US,Call Centre,job23.txt,resume23.txt,22,22,16,22
+Rasheed,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume33.txt,20,20,8,19
+Rasheed,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Rasheed,male,AA_US,Hospitality,job32.txt,resume32.txt,8,12,2,13
+Rasheed,male,AA_US,Hospitality,job32.txt,resume33.txt,10,14,5,18
+Rasheed,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,19
+Rasheed,male,AA_US,Hospitality,job33.txt,resume33.txt,23,22,10,22
+Tremayne,male,AA_US,Admin,job11.txt,resume11.txt,10,14,4,20
+Tremayne,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,14
+Tremayne,male,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Tremayne,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Tremayne,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Tremayne,male,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Tremayne,male,AA_US,Admin,job13.txt,resume11.txt,17,18,8,21
+Tremayne,male,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Tremayne,male,AA_US,Admin,job13.txt,resume13.txt,17,18,6,20
+Tremayne,male,AA_US,Call Centre,job21.txt,resume21.txt,20,19,22,22
+Tremayne,male,AA_US,Call Centre,job21.txt,resume22.txt,12,15,8,18
+Tremayne,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume22.txt,10,11,6,18
+Tremayne,male,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,22
+Tremayne,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,20
+Tremayne,male,AA_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Tremayne,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Tremayne,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Tremayne,male,AA_US,Hospitality,job31.txt,resume32.txt,18,20,5,18
+Tremayne,male,AA_US,Hospitality,job31.txt,resume33.txt,20,20,6,20
+Tremayne,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,19
+Tremayne,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,3,14
+Tremayne,male,AA_US,Hospitality,job32.txt,resume33.txt,12,18,6,18
+Tremayne,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Tremayne,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Tremayne,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Kareem,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Kareem,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Kareem,male,AA_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Kareem,male,AA_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Kareem,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Kareem,male,AA_US,Admin,job12.txt,resume13.txt,20,22,10,22
+Kareem,male,AA_US,Admin,job13.txt,resume11.txt,18,19,8,20
+Kareem,male,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Kareem,male,AA_US,Admin,job13.txt,resume13.txt,18,19,6,20
+Kareem,male,AA_US,Call Centre,job21.txt,resume21.txt,20,21,23,22
+Kareem,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Kareem,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Kareem,male,AA_US,Call Centre,job22.txt,resume23.txt,12,18,10,22
+Kareem,male,AA_US,Call Centre,job23.txt,resume21.txt,24,22,23,21
+Kareem,male,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Kareem,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Kareem,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,18
+Kareem,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,5,18
+Kareem,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,18
+Kareem,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Kareem,male,AA_US,Hospitality,job32.txt,resume32.txt,8,10,2,16
+Kareem,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,18
+Kareem,male,AA_US,Hospitality,job33.txt,resume31.txt,22,23,8,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,21
+Darnell,male,AA_US,Admin,job11.txt,resume11.txt,8,12,6,20
+Darnell,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Darnell,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Darnell,male,AA_US,Admin,job12.txt,resume11.txt,23,22,10,23
+Darnell,male,AA_US,Admin,job12.txt,resume12.txt,16,18,6,14
+Darnell,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Darnell,male,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Darnell,male,AA_US,Admin,job13.txt,resume12.txt,5,10,2,10
+Darnell,male,AA_US,Admin,job13.txt,resume13.txt,16,18,6,21
+Darnell,male,AA_US,Call Centre,job21.txt,resume21.txt,20,18,22,22
+Darnell,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,17
+Darnell,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Darnell,male,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,21
+Darnell,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Darnell,male,AA_US,Call Centre,job23.txt,resume22.txt,14,16,8,18
+Darnell,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Darnell,male,AA_US,Hospitality,job31.txt,resume31.txt,18,22,6,20
+Darnell,male,AA_US,Hospitality,job31.txt,resume32.txt,18,20,5,18
+Darnell,male,AA_US,Hospitality,job31.txt,resume33.txt,12,15,5,18
+Darnell,male,AA_US,Hospitality,job32.txt,resume31.txt,20,20,5,18
+Darnell,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,4,16
+Darnell,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Tyrone,male,AA_US,Admin,job11.txt,resume11.txt,10,13,6,20
+Tyrone,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,12
+Tyrone,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Tyrone,male,AA_US,Admin,job12.txt,resume11.txt,20,22,12,22
+Tyrone,male,AA_US,Admin,job12.txt,resume12.txt,18,20,5,15
+Tyrone,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Tyrone,male,AA_US,Admin,job13.txt,resume11.txt,16,18,8,21
+Tyrone,male,AA_US,Admin,job13.txt,resume12.txt,10,12,2,10
+Tyrone,male,AA_US,Admin,job13.txt,resume13.txt,18,18,8,20
+Tyrone,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Tyrone,male,AA_US,Call Centre,job21.txt,resume22.txt,10,12,5,15
+Tyrone,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,20
+Tyrone,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Tyrone,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Tyrone,male,AA_US,Call Centre,job22.txt,resume23.txt,14,16,10,20
+Tyrone,male,AA_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Tyrone,male,AA_US,Call Centre,job23.txt,resume22.txt,14,18,8,15
+Tyrone,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Tyrone,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Tyrone,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Tyrone,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,19
+Tyrone,male,AA_US,Hospitality,job32.txt,resume31.txt,20,22,8,18
+Tyrone,male,AA_US,Hospitality,job32.txt,resume32.txt,18,20,5,14
+Tyrone,male,AA_US,Hospitality,job32.txt,resume33.txt,10,15,5,18
+Tyrone,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Tyrone,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Tyrone,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Jamal,male,AA_US,Admin,job11.txt,resume11.txt,8,14,6,20
+Jamal,male,AA_US,Admin,job11.txt,resume12.txt,5,8,3,10
+Jamal,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Jamal,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Jamal,male,AA_US,Admin,job12.txt,resume12.txt,18,18,6,14
+Jamal,male,AA_US,Admin,job12.txt,resume13.txt,23,24,12,22
+Jamal,male,AA_US,Admin,job13.txt,resume11.txt,18,18,8,21
+Jamal,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jamal,male,AA_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Jamal,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Jamal,male,AA_US,Call Centre,job21.txt,resume22.txt,12,15,6,18
+Jamal,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Jamal,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,20,21
+Jamal,male,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Jamal,male,AA_US,Call Centre,job22.txt,resume23.txt,15,16,10,20
+Jamal,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Jamal,male,AA_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Jamal,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Jamal,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Jamal,male,AA_US,Hospitality,job31.txt,resume32.txt,10,14,4,16
+Jamal,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jamal,male,AA_US,Hospitality,job32.txt,resume31.txt,12,18,5,18
+Jamal,male,AA_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Jamal,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,19
+Jamal,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,21
+Jamal,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Jamal,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Hakim,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Hakim,male,AA_US,Admin,job11.txt,resume12.txt,8,10,3,14
+Hakim,male,AA_US,Admin,job11.txt,resume13.txt,10,15,6,20
+Hakim,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Hakim,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,18
+Hakim,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Hakim,male,AA_US,Admin,job13.txt,resume11.txt,16,18,6,20
+Hakim,male,AA_US,Admin,job13.txt,resume12.txt,7,10,2,10
+Hakim,male,AA_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Hakim,male,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Hakim,male,AA_US,Call Centre,job21.txt,resume22.txt,12,15,8,18
+Hakim,male,AA_US,Call Centre,job21.txt,resume23.txt,19,20,15,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,14
+Hakim,male,AA_US,Call Centre,job22.txt,resume23.txt,18,17,13,20
+Hakim,male,AA_US,Call Centre,job23.txt,resume21.txt,25,24,23,22
+Hakim,male,AA_US,Call Centre,job23.txt,resume22.txt,14,16,8,18
+Hakim,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Hakim,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,18
+Hakim,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Hakim,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Hakim,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,20
+Hakim,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Hakim,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Hakim,male,AA_US,Hospitality,job33.txt,resume33.txt,20,23,10,22
+Leroy,male,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Leroy,male,AA_US,Admin,job11.txt,resume12.txt,3,6,1,10
+Leroy,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Leroy,male,AA_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Leroy,male,AA_US,Admin,job12.txt,resume12.txt,18,19,8,17
+Leroy,male,AA_US,Admin,job12.txt,resume13.txt,22,23,8,22
+Leroy,male,AA_US,Admin,job13.txt,resume11.txt,16,18,6,20
+Leroy,male,AA_US,Admin,job13.txt,resume12.txt,7,10,3,11
+Leroy,male,AA_US,Admin,job13.txt,resume13.txt,15,18,5,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume22.txt,13,16,6,18
+Leroy,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Leroy,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,17,22
+Leroy,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Leroy,male,AA_US,Call Centre,job22.txt,resume23.txt,13,18,10,21
+Leroy,male,AA_US,Call Centre,job23.txt,resume21.txt,23,23,21,22
+Leroy,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Leroy,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,14,22
+Leroy,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Leroy,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Leroy,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,18
+Leroy,male,AA_US,Hospitality,job32.txt,resume31.txt,18,19,6,20
+Leroy,male,AA_US,Hospitality,job32.txt,resume32.txt,8,12,2,15
+Leroy,male,AA_US,Hospitality,job32.txt,resume33.txt,10,14,6,18
+Leroy,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Leroy,male,AA_US,Hospitality,job33.txt,resume32.txt,18,21,6,18
+Leroy,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Jermaine,male,AA_US,Admin,job11.txt,resume11.txt,5,12,6,20
+Jermaine,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Jermaine,male,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Jermaine,male,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Jermaine,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Jermaine,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Jermaine,male,AA_US,Admin,job13.txt,resume11.txt,15,18,8,22
+Jermaine,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jermaine,male,AA_US,Admin,job13.txt,resume13.txt,18,19,8,21
+Jermaine,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Jermaine,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Jermaine,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Jermaine,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Jermaine,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,14
+Jermaine,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Jermaine,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jermaine,male,AA_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Jermaine,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Jermaine,male,AA_US,Hospitality,job31.txt,resume31.txt,18,22,6,19
+Jermaine,male,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,18
+Jermaine,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jermaine,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Jermaine,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,4,15
+Jermaine,male,AA_US,Hospitality,job32.txt,resume33.txt,10,16,4,18
+Jermaine,male,AA_US,Hospitality,job33.txt,resume31.txt,24,24,10,21
+Jermaine,male,AA_US,Hospitality,job33.txt,resume32.txt,20,21,6,18
+Jermaine,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Emily,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Emily,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Emily,female,White_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Emily,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Emily,female,White_US,Admin,job12.txt,resume12.txt,18,20,6,17
+Emily,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Emily,female,White_US,Admin,job13.txt,resume11.txt,17,18,8,21
+Emily,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,12
+Emily,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Emily,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,22
+Emily,female,White_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Emily,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Emily,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Emily,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Emily,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Emily,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Emily,female,White_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Emily,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,14,22
+Emily,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Emily,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Emily,female,White_US,Hospitality,job31.txt,resume33.txt,20,18,8,20
+Emily,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,19
+Emily,female,White_US,Hospitality,job32.txt,resume32.txt,12,18,3,18
+Emily,female,White_US,Hospitality,job32.txt,resume33.txt,18,20,6,20
+Emily,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Emily,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Emily,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Anne,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Anne,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Anne,female,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Anne,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,23
+Anne,female,White_US,Admin,job12.txt,resume12.txt,15,18,5,17
+Anne,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Anne,female,White_US,Admin,job13.txt,resume11.txt,15,17,5,20
+Anne,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Anne,female,White_US,Admin,job13.txt,resume13.txt,17,18,6,21
+Anne,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,19,22
+Anne,female,White_US,Call Centre,job21.txt,resume22.txt,13,15,6,18
+Anne,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Anne,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Anne,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,18
+Anne,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Anne,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Anne,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Anne,female,White_US,Call Centre,job23.txt,resume23.txt,22,22,15,21
+Anne,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Anne,female,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Anne,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Anne,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Anne,female,White_US,Hospitality,job32.txt,resume32.txt,8,12,3,14
+Anne,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Anne,female,White_US,Hospitality,job33.txt,resume31.txt,21,24,10,20
+Anne,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Anne,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Jill,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Jill,female,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Jill,female,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Jill,female,White_US,Admin,job12.txt,resume11.txt,23,22,12,23
+Jill,female,White_US,Admin,job12.txt,resume12.txt,18,19,8,15
+Jill,female,White_US,Admin,job12.txt,resume13.txt,20,22,10,23
+Jill,female,White_US,Admin,job13.txt,resume11.txt,17,18,6,20
+Jill,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,9
+Jill,female,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Jill,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,22
+Jill,female,White_US,Call Centre,job21.txt,resume22.txt,10,13,6,18
+Jill,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Jill,female,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Jill,female,White_US,Call Centre,job22.txt,resume22.txt,10,13,5,18
+Jill,female,White_US,Call Centre,job22.txt,resume23.txt,18,17,14,22
+Jill,female,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Jill,female,White_US,Call Centre,job23.txt,resume22.txt,16,17,8,18
+Jill,female,White_US,Call Centre,job23.txt,resume23.txt,22,22,15,22
+Jill,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Jill,female,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Jill,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jill,female,White_US,Hospitality,job32.txt,resume31.txt,20,22,6,20
+Jill,female,White_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Jill,female,White_US,Hospitality,job32.txt,resume33.txt,10,15,5,18
+Jill,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Jill,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Jill,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Allison,female,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Allison,female,White_US,Admin,job11.txt,resume12.txt,5,10,3,10
+Allison,female,White_US,Admin,job11.txt,resume13.txt,12,15,6,20
+Allison,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Allison,female,White_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Allison,female,White_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Allison,female,White_US,Admin,job13.txt,resume11.txt,14,16,4,21
+Allison,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Allison,female,White_US,Admin,job13.txt,resume13.txt,18,18,8,20
+Allison,female,White_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Allison,female,White_US,Call Centre,job21.txt,resume22.txt,15,16,8,18
+Allison,female,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Allison,female,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Allison,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,5,15
+Allison,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,12,22
+Allison,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Allison,female,White_US,Call Centre,job23.txt,resume22.txt,17,18,10,18
+Allison,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,18,22
+Allison,female,White_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Allison,female,White_US,Hospitality,job31.txt,resume32.txt,12,15,4,18
+Allison,female,White_US,Hospitality,job31.txt,resume33.txt,18,19,8,20
+Allison,female,White_US,Hospitality,job32.txt,resume31.txt,18,22,5,20
+Allison,female,White_US,Hospitality,job32.txt,resume32.txt,10,14,3,15
+Allison,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,20
+Allison,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Allison,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Allison,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Sarah,female,White_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Sarah,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Sarah,female,White_US,Admin,job11.txt,resume13.txt,10,18,6,22
+Sarah,female,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Sarah,female,White_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Sarah,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Sarah,female,White_US,Admin,job13.txt,resume11.txt,18,19,10,22
+Sarah,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Sarah,female,White_US,Admin,job13.txt,resume13.txt,18,19,6,21
+Sarah,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,22
+Sarah,female,White_US,Call Centre,job21.txt,resume22.txt,10,12,6,18
+Sarah,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Sarah,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Sarah,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Sarah,female,White_US,Call Centre,job22.txt,resume23.txt,14,18,10,20
+Sarah,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Sarah,female,White_US,Call Centre,job23.txt,resume22.txt,18,19,10,19
+Sarah,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,15,22
+Sarah,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Sarah,female,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Sarah,female,White_US,Hospitality,job31.txt,resume33.txt,20,20,5,20
+Sarah,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Sarah,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Sarah,female,White_US,Hospitality,job32.txt,resume33.txt,8,12,4,18
+Sarah,female,White_US,Hospitality,job33.txt,resume31.txt,22,24,10,21
+Sarah,female,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Sarah,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Meredith,female,White_US,Admin,job11.txt,resume11.txt,10,18,6,22
+Meredith,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Meredith,female,White_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Meredith,female,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Meredith,female,White_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Meredith,female,White_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Meredith,female,White_US,Admin,job13.txt,resume11.txt,16,18,8,22
+Meredith,female,White_US,Admin,job13.txt,resume12.txt,8,10,2,14
+Meredith,female,White_US,Admin,job13.txt,resume13.txt,15,18,6,21
+Meredith,female,White_US,Call Centre,job21.txt,resume21.txt,20,19,21,22
+Meredith,female,White_US,Call Centre,job21.txt,resume22.txt,16,17,8,18
+Meredith,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Meredith,female,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Meredith,female,White_US,Call Centre,job22.txt,resume22.txt,7,10,4,14
+Meredith,female,White_US,Call Centre,job22.txt,resume23.txt,18,19,10,22
+Meredith,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Meredith,female,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Meredith,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,17,22
+Meredith,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Meredith,female,White_US,Hospitality,job31.txt,resume32.txt,12,15,4,16
+Meredith,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Meredith,female,White_US,Hospitality,job32.txt,resume31.txt,20,22,6,18
+Meredith,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,18
+Meredith,female,White_US,Hospitality,job32.txt,resume33.txt,10,14,5,19
+Meredith,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Meredith,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Meredith,female,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Laurie,female,White_US,Admin,job11.txt,resume11.txt,10,14,4,20
+Laurie,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Laurie,female,White_US,Admin,job11.txt,resume13.txt,8,14,4,20
+Laurie,female,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Laurie,female,White_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Laurie,female,White_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Laurie,female,White_US,Admin,job13.txt,resume11.txt,14,16,6,20
+Laurie,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,11
+Laurie,female,White_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Laurie,female,White_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Laurie,female,White_US,Call Centre,job21.txt,resume22.txt,12,13,6,18
+Laurie,female,White_US,Call Centre,job21.txt,resume23.txt,16,18,14,22
+Laurie,female,White_US,Call Centre,job22.txt,resume21.txt,18,20,19,21
+Laurie,female,White_US,Call Centre,job22.txt,resume22.txt,10,12,4,16
+Laurie,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Laurie,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Laurie,female,White_US,Call Centre,job23.txt,resume22.txt,16,18,9,19
+Laurie,female,White_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Laurie,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Laurie,female,White_US,Hospitality,job31.txt,resume32.txt,8,10,3,18
+Laurie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Laurie,female,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Laurie,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,18
+Laurie,female,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Laurie,female,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Laurie,female,White_US,Hospitality,job33.txt,resume32.txt,18,22,6,20
+Laurie,female,White_US,Hospitality,job33.txt,resume33.txt,22,22,10,22
+Carrie,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Carrie,female,White_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Carrie,female,White_US,Admin,job11.txt,resume13.txt,8,15,6,20
+Carrie,female,White_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Carrie,female,White_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Carrie,female,White_US,Admin,job12.txt,resume13.txt,20,23,10,22
+Carrie,female,White_US,Admin,job13.txt,resume11.txt,16,18,8,21
+Carrie,female,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Carrie,female,White_US,Admin,job13.txt,resume13.txt,17,18,6,22
+Carrie,female,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Carrie,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Carrie,female,White_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Carrie,female,White_US,Call Centre,job22.txt,resume21.txt,14,15,18,20
+Carrie,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,15
+Carrie,female,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Carrie,female,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Carrie,female,White_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Carrie,female,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Carrie,female,White_US,Hospitality,job31.txt,resume31.txt,18,22,6,20
+Carrie,female,White_US,Hospitality,job31.txt,resume32.txt,12,15,4,18
+Carrie,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Carrie,female,White_US,Hospitality,job32.txt,resume31.txt,20,22,8,20
+Carrie,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,18
+Carrie,female,White_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Carrie,female,White_US,Hospitality,job33.txt,resume31.txt,22,23,6,20
+Carrie,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,20
+Carrie,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Kristen,female,White_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Kristen,female,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Kristen,female,White_US,Admin,job11.txt,resume13.txt,10,16,6,20
+Kristen,female,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Kristen,female,White_US,Admin,job12.txt,resume12.txt,18,20,5,15
+Kristen,female,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Kristen,female,White_US,Admin,job13.txt,resume11.txt,15,18,8,21
+Kristen,female,White_US,Admin,job13.txt,resume12.txt,8,10,3,9
+Kristen,female,White_US,Admin,job13.txt,resume13.txt,16,18,6,22
+Kristen,female,White_US,Call Centre,job21.txt,resume21.txt,20,21,22,22
+Kristen,female,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Kristen,female,White_US,Call Centre,job21.txt,resume23.txt,16,18,14,20
+Kristen,female,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Kristen,female,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Kristen,female,White_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Kristen,female,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Kristen,female,White_US,Call Centre,job23.txt,resume22.txt,12,16,6,18
+Kristen,female,White_US,Call Centre,job23.txt,resume23.txt,22,23,14,22
+Kristen,female,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Kristen,female,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Kristen,female,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Kristen,female,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,20
+Kristen,female,White_US,Hospitality,job32.txt,resume32.txt,10,15,2,18
+Kristen,female,White_US,Hospitality,job32.txt,resume33.txt,8,15,4,18
+Kristen,female,White_US,Hospitality,job33.txt,resume31.txt,20,24,8,20
+Kristen,female,White_US,Hospitality,job33.txt,resume32.txt,18,20,8,20
+Kristen,female,White_US,Hospitality,job33.txt,resume33.txt,23,23,12,22
+Neil,male,White_US,Admin,job11.txt,resume11.txt,10,15,6,20
+Neil,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Neil,male,White_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Neil,male,White_US,Admin,job12.txt,resume11.txt,22,23,15,22
+Neil,male,White_US,Admin,job12.txt,resume12.txt,18,20,8,17
+Neil,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Neil,male,White_US,Admin,job13.txt,resume11.txt,15,17,6,20
+Neil,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Neil,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,20
+Neil,male,White_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Neil,male,White_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Neil,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Neil,male,White_US,Call Centre,job22.txt,resume21.txt,15,16,18,20
+Neil,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,5,14
+Neil,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,21
+Neil,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,21,22
+Neil,male,White_US,Call Centre,job23.txt,resume22.txt,12,16,6,18
+Neil,male,White_US,Call Centre,job23.txt,resume23.txt,22,22,15,22
+Neil,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Neil,male,White_US,Hospitality,job31.txt,resume32.txt,10,14,4,18
+Neil,male,White_US,Hospitality,job31.txt,resume33.txt,20,21,10,20
+Neil,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,19
+Neil,male,White_US,Hospitality,job32.txt,resume32.txt,5,10,2,15
+Neil,male,White_US,Hospitality,job32.txt,resume33.txt,10,14,6,18
+Neil,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Neil,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,18
+Neil,male,White_US,Hospitality,job33.txt,resume33.txt,20,23,10,22
+Geoffrey,male,White_US,Admin,job11.txt,resume11.txt,5,10,3,20
+Geoffrey,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Geoffrey,male,White_US,Admin,job11.txt,resume13.txt,10,13,5,20
+Geoffrey,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Geoffrey,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,16
+Geoffrey,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Geoffrey,male,White_US,Admin,job13.txt,resume11.txt,18,17,10,22
+Geoffrey,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Geoffrey,male,White_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Geoffrey,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Geoffrey,male,White_US,Call Centre,job21.txt,resume22.txt,15,18,10,18
+Geoffrey,male,White_US,Call Centre,job21.txt,resume23.txt,14,18,15,21
+Geoffrey,male,White_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Geoffrey,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Geoffrey,male,White_US,Call Centre,job22.txt,resume23.txt,13,16,10,20
+Geoffrey,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Geoffrey,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Geoffrey,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Geoffrey,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Geoffrey,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,6,20
+Geoffrey,male,White_US,Hospitality,job32.txt,resume31.txt,20,22,6,18
+Geoffrey,male,White_US,Hospitality,job32.txt,resume32.txt,10,14,3,16
+Geoffrey,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Geoffrey,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Geoffrey,male,White_US,Hospitality,job33.txt,resume32.txt,18,21,6,20
+Geoffrey,male,White_US,Hospitality,job33.txt,resume33.txt,23,23,13,22
+Brett,male,White_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Brett,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Brett,male,White_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Brett,male,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Brett,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Brett,male,White_US,Admin,job12.txt,resume13.txt,23,23,10,22
+Brett,male,White_US,Admin,job13.txt,resume11.txt,17,18,6,21
+Brett,male,White_US,Admin,job13.txt,resume12.txt,10,12,3,10
+Brett,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Brett,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Brett,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Brett,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,14,20
+Brett,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,20
+Brett,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,6,16
+Brett,male,White_US,Call Centre,job22.txt,resume23.txt,14,18,10,20
+Brett,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Brett,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,18
+Brett,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,14,22
+Brett,male,White_US,Hospitality,job31.txt,resume31.txt,15,18,5,18
+Brett,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,3,18
+Brett,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Brett,male,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,20
+Brett,male,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,18
+Brett,male,White_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Brett,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,5,20
+Brett,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Brett,male,White_US,Hospitality,job33.txt,resume33.txt,23,22,10,22
+Brendan,male,White_US,Admin,job11.txt,resume11.txt,10,15,8,22
+Brendan,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,10
+Brendan,male,White_US,Admin,job11.txt,resume13.txt,12,15,6,21
+Brendan,male,White_US,Admin,job12.txt,resume11.txt,20,22,10,22
+Brendan,male,White_US,Admin,job12.txt,resume12.txt,18,19,6,17
+Brendan,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Brendan,male,White_US,Admin,job13.txt,resume11.txt,18,17,8,20
+Brendan,male,White_US,Admin,job13.txt,resume12.txt,5,8,3,10
+Brendan,male,White_US,Admin,job13.txt,resume13.txt,16,18,5,21
+Brendan,male,White_US,Call Centre,job21.txt,resume21.txt,20,18,21,22
+Brendan,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Brendan,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,15,22
+Brendan,male,White_US,Call Centre,job22.txt,resume21.txt,15,18,20,22
+Brendan,male,White_US,Call Centre,job22.txt,resume22.txt,10,11,4,15
+Brendan,male,White_US,Call Centre,job22.txt,resume23.txt,18,17,10,20
+Brendan,male,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Brendan,male,White_US,Call Centre,job23.txt,resume22.txt,13,15,6,17
+Brendan,male,White_US,Call Centre,job23.txt,resume23.txt,22,22,14,22
+Brendan,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Brendan,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Brendan,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Brendan,male,White_US,Hospitality,job32.txt,resume31.txt,20,20,5,18
+Brendan,male,White_US,Hospitality,job32.txt,resume32.txt,12,15,2,15
+Brendan,male,White_US,Hospitality,job32.txt,resume33.txt,18,20,8,20
+Brendan,male,White_US,Hospitality,job33.txt,resume31.txt,25,25,10,20
+Brendan,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,19
+Brendan,male,White_US,Hospitality,job33.txt,resume33.txt,23,23,8,20
+Greg,male,White_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Greg,male,White_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Greg,male,White_US,Admin,job11.txt,resume13.txt,10,15,6,22
+Greg,male,White_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Greg,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Greg,male,White_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Greg,male,White_US,Admin,job13.txt,resume11.txt,15,17,5,21
+Greg,male,White_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Greg,male,White_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Greg,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Greg,male,White_US,Call Centre,job21.txt,resume22.txt,15,18,8,20
+Greg,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Greg,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,19,21
+Greg,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Greg,male,White_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Greg,male,White_US,Call Centre,job23.txt,resume21.txt,23,23,22,23
+Greg,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Greg,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Greg,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Greg,male,White_US,Hospitality,job31.txt,resume32.txt,10,12,2,15
+Greg,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Greg,male,White_US,Hospitality,job32.txt,resume31.txt,20,22,5,18
+Greg,male,White_US,Hospitality,job32.txt,resume32.txt,8,10,2,14
+Greg,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,5,18
+Greg,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,5,20
+Greg,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Greg,male,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Todd,male,White_US,Admin,job11.txt,resume11.txt,10,15,5,22
+Todd,male,White_US,Admin,job11.txt,resume12.txt,5,8,3,10
+Todd,male,White_US,Admin,job11.txt,resume13.txt,10,13,5,20
+Todd,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Todd,male,White_US,Admin,job12.txt,resume12.txt,18,20,5,17
+Todd,male,White_US,Admin,job12.txt,resume13.txt,21,23,10,22
+Todd,male,White_US,Admin,job13.txt,resume11.txt,16,17,6,21
+Todd,male,White_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Todd,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Todd,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,22
+Todd,male,White_US,Call Centre,job21.txt,resume22.txt,10,13,6,18
+Todd,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,17,22
+Todd,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,21
+Todd,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Todd,male,White_US,Call Centre,job22.txt,resume23.txt,12,14,10,20
+Todd,male,White_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Todd,male,White_US,Call Centre,job23.txt,resume22.txt,14,16,8,18
+Todd,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,17,22
+Todd,male,White_US,Hospitality,job31.txt,resume31.txt,20,22,6,20
+Todd,male,White_US,Hospitality,job31.txt,resume32.txt,12,15,4,16
+Todd,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Todd,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Todd,male,White_US,Hospitality,job32.txt,resume32.txt,10,15,3,15
+Todd,male,White_US,Hospitality,job32.txt,resume33.txt,15,18,8,20
+Todd,male,White_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Todd,male,White_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Todd,male,White_US,Hospitality,job33.txt,resume33.txt,18,22,10,22
+Matthew,male,White_US,Admin,job11.txt,resume11.txt,5,12,6,20
+Matthew,male,White_US,Admin,job11.txt,resume12.txt,5,10,2,9
+Matthew,male,White_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Matthew,male,White_US,Admin,job12.txt,resume11.txt,22,22,10,22
+Matthew,male,White_US,Admin,job12.txt,resume12.txt,14,18,6,16
+Matthew,male,White_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Matthew,male,White_US,Admin,job13.txt,resume11.txt,17,18,8,20
+Matthew,male,White_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Matthew,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Matthew,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Matthew,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,17
+Matthew,male,White_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Matthew,male,White_US,Call Centre,job22.txt,resume21.txt,16,18,20,20
+Matthew,male,White_US,Call Centre,job22.txt,resume22.txt,8,10,4,15
+Matthew,male,White_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Matthew,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Matthew,male,White_US,Call Centre,job23.txt,resume22.txt,16,18,8,18
+Matthew,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,16,21
+Matthew,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,5,18
+Matthew,male,White_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Matthew,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Matthew,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,8,20
+Matthew,male,White_US,Hospitality,job32.txt,resume32.txt,8,12,2,15
+Matthew,male,White_US,Hospitality,job32.txt,resume33.txt,18,20,8,18
+Matthew,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,6,20
+Matthew,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Matthew,male,White_US,Hospitality,job33.txt,resume33.txt,20,22,10,21
+Jay,male,White_US,Admin,job11.txt,resume11.txt,10,18,6,22
+Jay,male,White_US,Admin,job11.txt,resume12.txt,6,10,3,10
+Jay,male,White_US,Admin,job11.txt,resume13.txt,12,15,6,20
+Jay,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Jay,male,White_US,Admin,job12.txt,resume12.txt,18,20,6,16
+Jay,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Jay,male,White_US,Admin,job13.txt,resume11.txt,15,18,8,20
+Jay,male,White_US,Admin,job13.txt,resume12.txt,8,10,2,9
+Jay,male,White_US,Admin,job13.txt,resume13.txt,16,18,5,21
+Jay,male,White_US,Call Centre,job21.txt,resume21.txt,18,20,19,22
+Jay,male,White_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Jay,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,21
+Jay,male,White_US,Call Centre,job22.txt,resume21.txt,18,17,20,22
+Jay,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,6,16
+Jay,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Jay,male,White_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Jay,male,White_US,Call Centre,job23.txt,resume22.txt,10,15,6,18
+Jay,male,White_US,Call Centre,job23.txt,resume23.txt,23,22,16,22
+Jay,male,White_US,Hospitality,job31.txt,resume31.txt,17,20,5,20
+Jay,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Jay,male,White_US,Hospitality,job31.txt,resume33.txt,20,20,10,20
+Jay,male,White_US,Hospitality,job32.txt,resume31.txt,15,18,5,20
+Jay,male,White_US,Hospitality,job32.txt,resume32.txt,12,15,3,18
+Jay,male,White_US,Hospitality,job32.txt,resume33.txt,14,17,5,19
+Jay,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Jay,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Jay,male,White_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Brad,male,White_US,Admin,job11.txt,resume11.txt,10,15,5,20
+Brad,male,White_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Brad,male,White_US,Admin,job11.txt,resume13.txt,8,14,6,20
+Brad,male,White_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Brad,male,White_US,Admin,job12.txt,resume12.txt,18,20,5,15
+Brad,male,White_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Brad,male,White_US,Admin,job13.txt,resume11.txt,15,18,8,20
+Brad,male,White_US,Admin,job13.txt,resume12.txt,8,10,3,14
+Brad,male,White_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Brad,male,White_US,Call Centre,job21.txt,resume21.txt,20,20,22,23
+Brad,male,White_US,Call Centre,job21.txt,resume22.txt,15,18,8,18
+Brad,male,White_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Brad,male,White_US,Call Centre,job22.txt,resume21.txt,18,16,19,21
+Brad,male,White_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Brad,male,White_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Brad,male,White_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Brad,male,White_US,Call Centre,job23.txt,resume22.txt,14,18,6,17
+Brad,male,White_US,Call Centre,job23.txt,resume23.txt,23,23,14,22
+Brad,male,White_US,Hospitality,job31.txt,resume31.txt,18,20,6,19
+Brad,male,White_US,Hospitality,job31.txt,resume32.txt,10,15,3,18
+Brad,male,White_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Brad,male,White_US,Hospitality,job32.txt,resume31.txt,18,20,5,19
+Brad,male,White_US,Hospitality,job32.txt,resume32.txt,10,14,3,14
+Brad,male,White_US,Hospitality,job32.txt,resume33.txt,12,15,4,18
+Brad,male,White_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Brad,male,White_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Brad,male,White_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Aisha,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Aisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Aisha,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,22
+Aisha,female,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Aisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,5,18
+Aisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Aisha,female,AA_US,Admin,job13.txt,resume11.txt,14,16,8,20
+Aisha,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Aisha,female,AA_US,Admin,job13.txt,resume13.txt,18,19,6,22
+Aisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,23
+Aisha,female,AA_US,Call Centre,job21.txt,resume22.txt,10,13,6,18
+Aisha,female,AA_US,Call Centre,job21.txt,resume23.txt,17,19,18,22
+Aisha,female,AA_US,Call Centre,job22.txt,resume21.txt,20,18,20,22
+Aisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,5,18
+Aisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,17,10,21
+Aisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Aisha,female,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Aisha,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,14,22
+Aisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Aisha,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Aisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,18
+Aisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Aisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,15,2,15
+Aisha,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Aisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Keisha,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Keisha,female,AA_US,Admin,job11.txt,resume12.txt,5,8,3,10
+Keisha,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Keisha,female,AA_US,Admin,job12.txt,resume11.txt,23,24,10,23
+Keisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,14
+Keisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Keisha,female,AA_US,Admin,job13.txt,resume11.txt,18,19,10,22
+Keisha,female,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Keisha,female,AA_US,Admin,job13.txt,resume13.txt,18,19,8,22
+Keisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Keisha,female,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Keisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Keisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,20,19,22
+Keisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Keisha,female,AA_US,Call Centre,job22.txt,resume23.txt,16,18,10,22
+Keisha,female,AA_US,Call Centre,job23.txt,resume21.txt,23,24,22,22
+Keisha,female,AA_US,Call Centre,job23.txt,resume22.txt,14,16,8,18
+Keisha,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,15,22
+Keisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Keisha,female,AA_US,Hospitality,job31.txt,resume32.txt,18,17,5,19
+Keisha,female,AA_US,Hospitality,job31.txt,resume33.txt,20,20,8,20
+Keisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Keisha,female,AA_US,Hospitality,job32.txt,resume32.txt,8,10,2,16
+Keisha,female,AA_US,Hospitality,job32.txt,resume33.txt,12,14,6,18
+Keisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,22
+Keisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Keisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,15,22
+Tamika,female,AA_US,Admin,job11.txt,resume11.txt,10,15,6,22
+Tamika,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,12
+Tamika,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Tamika,female,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Tamika,female,AA_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Tamika,female,AA_US,Admin,job12.txt,resume13.txt,23,24,10,23
+Tamika,female,AA_US,Admin,job13.txt,resume11.txt,18,19,10,22
+Tamika,female,AA_US,Admin,job13.txt,resume12.txt,6,9,2,10
+Tamika,female,AA_US,Admin,job13.txt,resume13.txt,15,17,6,20
+Tamika,female,AA_US,Call Centre,job21.txt,resume21.txt,18,19,20,22
+Tamika,female,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Tamika,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Tamika,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,15
+Tamika,female,AA_US,Call Centre,job22.txt,resume23.txt,15,17,10,20
+Tamika,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Tamika,female,AA_US,Call Centre,job23.txt,resume22.txt,14,17,8,18
+Tamika,female,AA_US,Call Centre,job23.txt,resume23.txt,22,22,15,22
+Tamika,female,AA_US,Hospitality,job31.txt,resume31.txt,18,22,6,20
+Tamika,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Tamika,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,6,19
+Tamika,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Tamika,female,AA_US,Hospitality,job32.txt,resume32.txt,8,10,2,14
+Tamika,female,AA_US,Hospitality,job32.txt,resume33.txt,10,18,6,18
+Tamika,female,AA_US,Hospitality,job33.txt,resume31.txt,24,24,6,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,5,20
+Tamika,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Lakisha,female,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Lakisha,female,AA_US,Admin,job11.txt,resume12.txt,5,8,3,10
+Lakisha,female,AA_US,Admin,job11.txt,resume13.txt,10,18,6,21
+Lakisha,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Lakisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,5,14
+Lakisha,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Lakisha,female,AA_US,Admin,job13.txt,resume11.txt,15,18,8,21
+Lakisha,female,AA_US,Admin,job13.txt,resume12.txt,5,8,3,10
+Lakisha,female,AA_US,Admin,job13.txt,resume13.txt,18,18,8,22
+Lakisha,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Lakisha,female,AA_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Lakisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Lakisha,female,AA_US,Call Centre,job22.txt,resume21.txt,16,18,20,22
+Lakisha,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,14
+Lakisha,female,AA_US,Call Centre,job22.txt,resume23.txt,14,16,12,21
+Lakisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Lakisha,female,AA_US,Call Centre,job23.txt,resume22.txt,16,18,8,19
+Lakisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Lakisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,8,20
+Lakisha,female,AA_US,Hospitality,job31.txt,resume32.txt,10,14,3,17
+Lakisha,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,10,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume31.txt,22,23,8,18
+Lakisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,15,2,16
+Lakisha,female,AA_US,Hospitality,job32.txt,resume33.txt,16,18,6,20
+Lakisha,female,AA_US,Hospitality,job33.txt,resume31.txt,20,23,8,20
+Lakisha,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Lakisha,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Tanisha,female,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Tanisha,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,12
+Tanisha,female,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Tanisha,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Tanisha,female,AA_US,Admin,job12.txt,resume12.txt,18,20,6,15
+Tanisha,female,AA_US,Admin,job12.txt,resume13.txt,23,22,10,23
+Tanisha,female,AA_US,Admin,job13.txt,resume11.txt,18,19,8,22
+Tanisha,female,AA_US,Admin,job13.txt,resume12.txt,5,7,2,10
+Tanisha,female,AA_US,Admin,job13.txt,resume13.txt,17,18,6,21
+Tanisha,female,AA_US,Call Centre,job21.txt,resume21.txt,19,20,21,22
+Tanisha,female,AA_US,Call Centre,job21.txt,resume22.txt,15,17,8,18
+Tanisha,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Tanisha,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Tanisha,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,14
+Tanisha,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Tanisha,female,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Tanisha,female,AA_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Tanisha,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Tanisha,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Tanisha,female,AA_US,Hospitality,job31.txt,resume32.txt,14,18,4,18
+Tanisha,female,AA_US,Hospitality,job31.txt,resume33.txt,20,21,8,20
+Tanisha,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,20
+Tanisha,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,15
+Tanisha,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,19
+Tanisha,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,8,20
+Tanisha,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Latoya,female,AA_US,Admin,job11.txt,resume11.txt,5,12,5,20
+Latoya,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Latoya,female,AA_US,Admin,job11.txt,resume13.txt,10,15,6,21
+Latoya,female,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Latoya,female,AA_US,Admin,job12.txt,resume12.txt,15,18,4,14
+Latoya,female,AA_US,Admin,job12.txt,resume13.txt,23,23,10,23
+Latoya,female,AA_US,Admin,job13.txt,resume11.txt,18,19,8,21
+Latoya,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Latoya,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,21
+Latoya,female,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Latoya,female,AA_US,Call Centre,job21.txt,resume22.txt,10,12,6,17
+Latoya,female,AA_US,Call Centre,job21.txt,resume23.txt,17,19,13,21
+Latoya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,21,21
+Latoya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,11,4,14
+Latoya,female,AA_US,Call Centre,job22.txt,resume23.txt,12,14,10,20
+Latoya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,23
+Latoya,female,AA_US,Call Centre,job23.txt,resume22.txt,12,18,6,20
+Latoya,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Latoya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Latoya,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Latoya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Latoya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,6,18
+Latoya,female,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,15
+Latoya,female,AA_US,Hospitality,job32.txt,resume33.txt,10,18,5,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Latoya,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Latoya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,14,22
+Kenya,female,AA_US,Admin,job11.txt,resume11.txt,10,14,5,20
+Kenya,female,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Kenya,female,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Kenya,female,AA_US,Admin,job12.txt,resume11.txt,20,22,10,22
+Kenya,female,AA_US,Admin,job12.txt,resume12.txt,18,20,8,17
+Kenya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Kenya,female,AA_US,Admin,job13.txt,resume11.txt,14,16,6,20
+Kenya,female,AA_US,Admin,job13.txt,resume12.txt,8,10,3,9
+Kenya,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Kenya,female,AA_US,Call Centre,job21.txt,resume21.txt,20,18,22,22
+Kenya,female,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Kenya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,15,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Kenya,female,AA_US,Call Centre,job22.txt,resume22.txt,8,10,5,15
+Kenya,female,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,22
+Kenya,female,AA_US,Call Centre,job23.txt,resume21.txt,25,24,22,23
+Kenya,female,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Kenya,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,15,22
+Kenya,female,AA_US,Hospitality,job31.txt,resume31.txt,20,22,8,20
+Kenya,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,4,18
+Kenya,female,AA_US,Hospitality,job31.txt,resume33.txt,20,21,7,20
+Kenya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Kenya,female,AA_US,Hospitality,job32.txt,resume32.txt,8,12,2,15
+Kenya,female,AA_US,Hospitality,job32.txt,resume33.txt,12,15,6,18
+Kenya,female,AA_US,Hospitality,job33.txt,resume31.txt,22,24,8,20
+Kenya,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,6,20
+Kenya,female,AA_US,Hospitality,job33.txt,resume33.txt,23,24,10,22
+Latonya,female,AA_US,Admin,job11.txt,resume11.txt,10,13,6,20
+Latonya,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Latonya,female,AA_US,Admin,job11.txt,resume13.txt,8,14,5,20
+Latonya,female,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Latonya,female,AA_US,Admin,job12.txt,resume12.txt,16,18,8,14
+Latonya,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Latonya,female,AA_US,Admin,job13.txt,resume11.txt,14,15,6,20
+Latonya,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Latonya,female,AA_US,Admin,job13.txt,resume13.txt,15,18,5,20
+Latonya,female,AA_US,Call Centre,job21.txt,resume21.txt,20,19,21,22
+Latonya,female,AA_US,Call Centre,job21.txt,resume22.txt,15,18,8,18
+Latonya,female,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume21.txt,18,17,19,22
+Latonya,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,16
+Latonya,female,AA_US,Call Centre,job22.txt,resume23.txt,15,16,10,21
+Latonya,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Latonya,female,AA_US,Call Centre,job23.txt,resume22.txt,13,15,5,18
+Latonya,female,AA_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Latonya,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Latonya,female,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Latonya,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,19
+Latonya,female,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Latonya,female,AA_US,Hospitality,job32.txt,resume32.txt,12,15,5,15
+Latonya,female,AA_US,Hospitality,job32.txt,resume33.txt,15,18,6,18
+Latonya,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,22
+Latonya,female,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Latonya,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,9,22
+Ebony,female,AA_US,Admin,job11.txt,resume11.txt,10,14,4,20
+Ebony,female,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Ebony,female,AA_US,Admin,job11.txt,resume13.txt,8,13,5,20
+Ebony,female,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Ebony,female,AA_US,Admin,job12.txt,resume12.txt,15,18,5,16
+Ebony,female,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Ebony,female,AA_US,Admin,job13.txt,resume11.txt,18,18,10,22
+Ebony,female,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Ebony,female,AA_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Ebony,female,AA_US,Call Centre,job21.txt,resume21.txt,20,21,22,23
+Ebony,female,AA_US,Call Centre,job21.txt,resume22.txt,15,16,8,18
+Ebony,female,AA_US,Call Centre,job21.txt,resume23.txt,18,20,16,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume21.txt,16,18,20,22
+Ebony,female,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,16
+Ebony,female,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Ebony,female,AA_US,Call Centre,job23.txt,resume21.txt,24,24,23,22
+Ebony,female,AA_US,Call Centre,job23.txt,resume22.txt,13,15,6,18
+Ebony,female,AA_US,Call Centre,job23.txt,resume23.txt,23,23,18,22
+Ebony,female,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Ebony,female,AA_US,Hospitality,job31.txt,resume32.txt,12,15,4,18
+Ebony,female,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Ebony,female,AA_US,Hospitality,job32.txt,resume31.txt,20,22,5,20
+Ebony,female,AA_US,Hospitality,job32.txt,resume32.txt,12,15,4,18
+Ebony,female,AA_US,Hospitality,job32.txt,resume33.txt,18,20,6,19
+Ebony,female,AA_US,Hospitality,job33.txt,resume31.txt,23,24,6,21
+Ebony,female,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,19
+Ebony,female,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Rasheed,male,AA_US,Admin,job11.txt,resume11.txt,8,14,6,20
+Rasheed,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,10
+Rasheed,male,AA_US,Admin,job11.txt,resume13.txt,10,14,5,20
+Rasheed,male,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Rasheed,male,AA_US,Admin,job12.txt,resume12.txt,18,19,6,14
+Rasheed,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Rasheed,male,AA_US,Admin,job13.txt,resume11.txt,18,17,6,20
+Rasheed,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Rasheed,male,AA_US,Admin,job13.txt,resume13.txt,14,18,6,20
+Rasheed,male,AA_US,Call Centre,job21.txt,resume21.txt,20,21,22,22
+Rasheed,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Rasheed,male,AA_US,Call Centre,job21.txt,resume23.txt,15,18,14,22
+Rasheed,male,AA_US,Call Centre,job22.txt,resume21.txt,18,17,19,21
+Rasheed,male,AA_US,Call Centre,job22.txt,resume22.txt,12,14,5,18
+Rasheed,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Rasheed,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Rasheed,male,AA_US,Call Centre,job23.txt,resume22.txt,11,15,7,17
+Rasheed,male,AA_US,Call Centre,job23.txt,resume23.txt,22,22,16,22
+Rasheed,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Rasheed,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,18
+Rasheed,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Rasheed,male,AA_US,Hospitality,job32.txt,resume32.txt,8,12,2,14
+Rasheed,male,AA_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Rasheed,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,8,20
+Rasheed,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
+Tremayne,male,AA_US,Admin,job11.txt,resume11.txt,10,15,6,22
+Tremayne,male,AA_US,Admin,job11.txt,resume12.txt,5,10,2,14
+Tremayne,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,21
+Tremayne,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Tremayne,male,AA_US,Admin,job12.txt,resume12.txt,18,20,8,16
+Tremayne,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Tremayne,male,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Tremayne,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Tremayne,male,AA_US,Admin,job13.txt,resume13.txt,14,17,6,21
+Tremayne,male,AA_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Tremayne,male,AA_US,Call Centre,job21.txt,resume22.txt,14,15,6,18
+Tremayne,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,14,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume21.txt,18,20,20,22
+Tremayne,male,AA_US,Call Centre,job22.txt,resume22.txt,6,10,4,15
+Tremayne,male,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,20
+Tremayne,male,AA_US,Call Centre,job23.txt,resume21.txt,25,24,23,22
+Tremayne,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,10,18
+Tremayne,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,18,22
+Tremayne,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,20
+Tremayne,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,5,18
+Tremayne,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,10,20
+Tremayne,male,AA_US,Hospitality,job32.txt,resume31.txt,20,22,5,18
+Tremayne,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,2,18
+Tremayne,male,AA_US,Hospitality,job32.txt,resume33.txt,12,15,5,18
+Tremayne,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Tremayne,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Tremayne,male,AA_US,Hospitality,job33.txt,resume33.txt,23,22,10,21
+Kareem,male,AA_US,Admin,job11.txt,resume11.txt,8,15,6,20
+Kareem,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Kareem,male,AA_US,Admin,job11.txt,resume13.txt,10,15,5,20
+Kareem,male,AA_US,Admin,job12.txt,resume11.txt,23,23,10,22
+Kareem,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,17
+Kareem,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Kareem,male,AA_US,Admin,job13.txt,resume11.txt,16,18,6,21
+Kareem,male,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Kareem,male,AA_US,Admin,job13.txt,resume13.txt,16,17,6,21
+Kareem,male,AA_US,Call Centre,job21.txt,resume21.txt,20,21,22,23
+Kareem,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Kareem,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Kareem,male,AA_US,Call Centre,job22.txt,resume22.txt,8,12,6,15
+Kareem,male,AA_US,Call Centre,job22.txt,resume23.txt,12,15,10,20
+Kareem,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Kareem,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Kareem,male,AA_US,Call Centre,job23.txt,resume23.txt,22,22,17,22
+Kareem,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Kareem,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Kareem,male,AA_US,Hospitality,job31.txt,resume33.txt,20,22,10,20
+Kareem,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Kareem,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Kareem,male,AA_US,Hospitality,job32.txt,resume33.txt,18,19,6,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,20
+Kareem,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,18
+Kareem,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,21
+Darnell,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,20
+Darnell,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,14
+Darnell,male,AA_US,Admin,job11.txt,resume13.txt,10,14,6,20
+Darnell,male,AA_US,Admin,job12.txt,resume11.txt,23,22,10,22
+Darnell,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,18
+Darnell,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Darnell,male,AA_US,Admin,job13.txt,resume11.txt,14,16,6,21
+Darnell,male,AA_US,Admin,job13.txt,resume12.txt,8,10,3,10
+Darnell,male,AA_US,Admin,job13.txt,resume13.txt,14,17,6,21
+Darnell,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Darnell,male,AA_US,Call Centre,job21.txt,resume22.txt,15,14,8,18
+Darnell,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,22
+Darnell,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,4,16
+Darnell,male,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,20
+Darnell,male,AA_US,Call Centre,job23.txt,resume21.txt,25,24,23,23
+Darnell,male,AA_US,Call Centre,job23.txt,resume22.txt,14,17,6,18
+Darnell,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,14,21
+Darnell,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,5,20
+Darnell,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Darnell,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,19
+Darnell,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,20
+Darnell,male,AA_US,Hospitality,job32.txt,resume32.txt,8,10,2,18
+Darnell,male,AA_US,Hospitality,job32.txt,resume33.txt,20,20,8,20
+Darnell,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,21
+Darnell,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,8,19
+Darnell,male,AA_US,Hospitality,job33.txt,resume33.txt,23,23,12,21
+Tyrone,male,AA_US,Admin,job11.txt,resume11.txt,10,14,6,22
+Tyrone,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Tyrone,male,AA_US,Admin,job11.txt,resume13.txt,8,14,4,20
+Tyrone,male,AA_US,Admin,job12.txt,resume11.txt,22,22,12,22
+Tyrone,male,AA_US,Admin,job12.txt,resume12.txt,17,18,6,14
+Tyrone,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Tyrone,male,AA_US,Admin,job13.txt,resume11.txt,17,18,8,22
+Tyrone,male,AA_US,Admin,job13.txt,resume12.txt,8,10,2,10
+Tyrone,male,AA_US,Admin,job13.txt,resume13.txt,18,19,6,20
+Tyrone,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,22,22
+Tyrone,male,AA_US,Call Centre,job21.txt,resume22.txt,10,14,6,16
+Tyrone,male,AA_US,Call Centre,job21.txt,resume23.txt,17,18,14,21
+Tyrone,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,20
+Tyrone,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,4,14
+Tyrone,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,20
+Tyrone,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Tyrone,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Tyrone,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,14,22
+Tyrone,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,5,20
+Tyrone,male,AA_US,Hospitality,job31.txt,resume32.txt,8,14,3,18
+Tyrone,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Tyrone,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Tyrone,male,AA_US,Hospitality,job32.txt,resume32.txt,12,15,3,14
+Tyrone,male,AA_US,Hospitality,job32.txt,resume33.txt,10,14,4,18
+Tyrone,male,AA_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Tyrone,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,8,18
+Tyrone,male,AA_US,Hospitality,job33.txt,resume33.txt,23,24,12,22
+Jamal,male,AA_US,Admin,job11.txt,resume11.txt,8,12,5,20
+Jamal,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,10
+Jamal,male,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Jamal,male,AA_US,Admin,job12.txt,resume11.txt,22,23,14,22
+Jamal,male,AA_US,Admin,job12.txt,resume12.txt,18,20,5,14
+Jamal,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,23
+Jamal,male,AA_US,Admin,job13.txt,resume11.txt,18,18,10,22
+Jamal,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jamal,male,AA_US,Admin,job13.txt,resume13.txt,18,18,8,21
+Jamal,male,AA_US,Call Centre,job21.txt,resume21.txt,18,20,21,22
+Jamal,male,AA_US,Call Centre,job21.txt,resume22.txt,15,17,8,18
+Jamal,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,14,22
+Jamal,male,AA_US,Call Centre,job22.txt,resume21.txt,20,18,20,22
+Jamal,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,15
+Jamal,male,AA_US,Call Centre,job22.txt,resume23.txt,13,15,10,20
+Jamal,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,22
+Jamal,male,AA_US,Call Centre,job23.txt,resume22.txt,13,16,6,18
+Jamal,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,16,22
+Jamal,male,AA_US,Hospitality,job31.txt,resume31.txt,18,20,6,20
+Jamal,male,AA_US,Hospitality,job31.txt,resume32.txt,10,15,3,15
+Jamal,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jamal,male,AA_US,Hospitality,job32.txt,resume31.txt,15,18,5,18
+Jamal,male,AA_US,Hospitality,job32.txt,resume32.txt,12,15,3,18
+Jamal,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,5,19
+Jamal,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Jamal,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,8,20
+Jamal,male,AA_US,Hospitality,job33.txt,resume33.txt,23,23,10,22
+Hakim,male,AA_US,Admin,job11.txt,resume11.txt,8,14,5,20
+Hakim,male,AA_US,Admin,job11.txt,resume12.txt,8,10,3,12
+Hakim,male,AA_US,Admin,job11.txt,resume13.txt,12,14,6,20
+Hakim,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Hakim,male,AA_US,Admin,job12.txt,resume12.txt,18,20,5,18
+Hakim,male,AA_US,Admin,job12.txt,resume13.txt,20,22,8,22
+Hakim,male,AA_US,Admin,job13.txt,resume11.txt,18,17,8,20
+Hakim,male,AA_US,Admin,job13.txt,resume12.txt,10,11,2,12
+Hakim,male,AA_US,Admin,job13.txt,resume13.txt,18,18,6,22
+Hakim,male,AA_US,Call Centre,job21.txt,resume21.txt,18,19,21,22
+Hakim,male,AA_US,Call Centre,job21.txt,resume22.txt,12,14,6,18
+Hakim,male,AA_US,Call Centre,job21.txt,resume23.txt,18,20,17,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume21.txt,20,18,20,22
+Hakim,male,AA_US,Call Centre,job22.txt,resume22.txt,8,10,4,16
+Hakim,male,AA_US,Call Centre,job22.txt,resume23.txt,10,14,8,20
+Hakim,male,AA_US,Call Centre,job23.txt,resume21.txt,24,23,22,23
+Hakim,male,AA_US,Call Centre,job23.txt,resume22.txt,12,15,6,18
+Hakim,male,AA_US,Call Centre,job23.txt,resume23.txt,23,23,17,22
+Hakim,male,AA_US,Hospitality,job31.txt,resume31.txt,20,22,6,18
+Hakim,male,AA_US,Hospitality,job31.txt,resume32.txt,12,15,3,18
+Hakim,male,AA_US,Hospitality,job31.txt,resume33.txt,18,19,8,20
+Hakim,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Hakim,male,AA_US,Hospitality,job32.txt,resume32.txt,10,12,2,14
+Hakim,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,8,19
+Hakim,male,AA_US,Hospitality,job33.txt,resume31.txt,22,24,10,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,10,20
+Hakim,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,14,21
+Leroy,male,AA_US,Admin,job11.txt,resume11.txt,6,12,5,20
+Leroy,male,AA_US,Admin,job11.txt,resume12.txt,5,8,2,12
+Leroy,male,AA_US,Admin,job11.txt,resume13.txt,5,10,3,20
+Leroy,male,AA_US,Admin,job12.txt,resume11.txt,22,23,9,22
+Leroy,male,AA_US,Admin,job12.txt,resume12.txt,18,20,6,17
+Leroy,male,AA_US,Admin,job12.txt,resume13.txt,22,23,10,22
+Leroy,male,AA_US,Admin,job13.txt,resume11.txt,16,18,8,20
+Leroy,male,AA_US,Admin,job13.txt,resume12.txt,8,10,2,8
+Leroy,male,AA_US,Admin,job13.txt,resume13.txt,16,18,6,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume21.txt,20,21,19,22
+Leroy,male,AA_US,Call Centre,job21.txt,resume22.txt,15,15,8,18
+Leroy,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,16,22
+Leroy,male,AA_US,Call Centre,job22.txt,resume21.txt,17,18,19,21
+Leroy,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,5,16
+Leroy,male,AA_US,Call Centre,job22.txt,resume23.txt,14,18,10,22
+Leroy,male,AA_US,Call Centre,job23.txt,resume21.txt,24,24,22,22
+Leroy,male,AA_US,Call Centre,job23.txt,resume22.txt,14,16,6,18
+Leroy,male,AA_US,Call Centre,job23.txt,resume23.txt,23,22,14,22
+Leroy,male,AA_US,Hospitality,job31.txt,resume31.txt,18,21,6,20
+Leroy,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Leroy,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Leroy,male,AA_US,Hospitality,job32.txt,resume31.txt,18,20,5,18
+Leroy,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,14
+Leroy,male,AA_US,Hospitality,job32.txt,resume33.txt,8,14,5,18
+Leroy,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,10,21
+Leroy,male,AA_US,Hospitality,job33.txt,resume32.txt,18,20,6,18
+Leroy,male,AA_US,Hospitality,job33.txt,resume33.txt,22,22,10,22
+Jermaine,male,AA_US,Admin,job11.txt,resume11.txt,5,12,4,20
+Jermaine,male,AA_US,Admin,job11.txt,resume12.txt,10,12,3,10
+Jermaine,male,AA_US,Admin,job11.txt,resume13.txt,10,14,4,20
+Jermaine,male,AA_US,Admin,job12.txt,resume11.txt,22,23,10,22
+Jermaine,male,AA_US,Admin,job12.txt,resume12.txt,18,20,5,15
+Jermaine,male,AA_US,Admin,job12.txt,resume13.txt,23,23,10,22
+Jermaine,male,AA_US,Admin,job13.txt,resume11.txt,18,18,6,21
+Jermaine,male,AA_US,Admin,job13.txt,resume12.txt,5,8,2,10
+Jermaine,male,AA_US,Admin,job13.txt,resume13.txt,14,18,6,21
+Jermaine,male,AA_US,Call Centre,job21.txt,resume21.txt,20,19,22,22
+Jermaine,male,AA_US,Call Centre,job21.txt,resume22.txt,12,15,6,16
+Jermaine,male,AA_US,Call Centre,job21.txt,resume23.txt,18,19,17,22
+Jermaine,male,AA_US,Call Centre,job22.txt,resume21.txt,18,19,20,21
+Jermaine,male,AA_US,Call Centre,job22.txt,resume22.txt,10,12,6,14
+Jermaine,male,AA_US,Call Centre,job22.txt,resume23.txt,15,18,10,22
+Jermaine,male,AA_US,Call Centre,job23.txt,resume21.txt,23,23,22,22
+Jermaine,male,AA_US,Call Centre,job23.txt,resume22.txt,15,18,8,18
+Jermaine,male,AA_US,Call Centre,job23.txt,resume23.txt,22,23,17,22
+Jermaine,male,AA_US,Hospitality,job31.txt,resume31.txt,18,22,6,20
+Jermaine,male,AA_US,Hospitality,job31.txt,resume32.txt,15,18,5,18
+Jermaine,male,AA_US,Hospitality,job31.txt,resume33.txt,18,20,8,20
+Jermaine,male,AA_US,Hospitality,job32.txt,resume31.txt,15,20,5,18
+Jermaine,male,AA_US,Hospitality,job32.txt,resume32.txt,10,14,3,15
+Jermaine,male,AA_US,Hospitality,job32.txt,resume33.txt,15,18,5,18
+Jermaine,male,AA_US,Hospitality,job33.txt,resume31.txt,23,24,8,21
+Jermaine,male,AA_US,Hospitality,job33.txt,resume32.txt,20,22,5,20
+Jermaine,male,AA_US,Hospitality,job33.txt,resume33.txt,22,23,10,22
