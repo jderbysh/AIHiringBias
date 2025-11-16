@@ -1,6 +1,18 @@
-## Credit
-Special mention to the authors Marianne Bertrand & Sendhil Mullainathan of the 2003 working paper 'ARE EMILY AND GREG MORE EMPLOYABLE THAN LAKISHA AND JAMAL? A FIELD EXPERIMENT ON LABOR MARKET DISCRIMINATION' 
+## Credit 
+Special mention to the authors Marianne Bertrand & Sendhil Mullainathan of the 2003 working paper 'Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination.'
 The names and name categories used in this study are based on their original research conducted in 2003.
+
+## Racial Name Categories
+This project uses name lists derived from the classic résumé discrimination experiment by Bertrand and Mullainathan (2003). In their study, certain names were statistically associated with African-American applicants and others with White American applicants in the United States labour market.
+
+To avoid incorrectly applying US racial categories to an Australian context, this project labels the two groups as:
+1. AA_US — Names used in the 2003 study that signalled African-American applicants in the US context
+2. White_US — Names used in the 2003 study that signalled White applicants in the US context
+
+These labels are used only as experimental signalling variables to reproduce the methodological structure of the original study. They do not imply that these name–race associations generalise to Australia, nor do they represent Australian racial or cultural categories.
+
+Reference:
+Bertrand, M., & Mullainathan, S. (2003). Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination. Cambridge, MA: National Bureau of Economic Research. Retrieved from https://doi.org/10.3386/w9873
 
 ## Overview
 
