@@ -3,7 +3,7 @@ Special mention to the authors Marianne Bertrand & Sendhil Mullainathan of the 2
 The names and name categories used in this study are based on their original research conducted in 2003.
 
 ## Racial Name Categories
-This project uses name lists derived from the classic résumé discrimination experiment by Bertrand and Mullainathan (2003). In their study, certain names were statistically associated with African-American applicants and others with White American applicants in the United States labour market.
+This project uses name lists derived from the classic resume discrimination experiment by Bertrand and Mullainathan (2003). In their study, certain names were statistically associated with African-American applicants and others with White American applicants in the United States labour market.
 
 To avoid incorrectly applying US racial categories to an Australian context, this project labels the two groups as:
 1. AA_US — Names used in the 2003 study that signalled African-American applicants in the US context
