@@ -38,10 +38,10 @@ project/
 # Job Ads
 Files must be named: job<industry><job>.txt
 
-# Resumes
+### Resumes
 Files must be named: resume<industry><resume>.txt
 
-# The Names File
+### The Names File
 The names file is structured as a CSV: <name>,<gender_code>,<race_code>
 
 ## How the Script Works
