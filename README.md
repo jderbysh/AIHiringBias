@@ -14,7 +14,7 @@ The script:
 Each resume is evaluated multiple times to measure variability and potential bias.
 
 ## Project Structure
-
+'''
 project/
 │
 ├── jobs/
@@ -35,3 +35,4 @@ project/
 ├── api_key.txt
 ├── run.py  (the script)
 └── README.md
+'''
