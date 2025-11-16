@@ -35,7 +35,7 @@ project/
 
 ```
 ## File Naming Rules
-# Job Ads
+### Job Ads
 Files must be named: job<industry><job>.txt
 
 ### Resumes
