@@ -45,28 +45,45 @@ Files must be named: resume<industry><resume>.txt
 The names file is structured as a CSV: <name>,<gender_code>,<race_code>
 
 ## How the Script Works
-1. Load API Key
-Reads your OpenAI API key from api_key.txt
 
-2. Build Prompt Combinations
+### 1. Load API Key
+Reads your OpenAI API key from `api_key.txt`.
+
+---
+
+### 2. Build Prompt Combinations
 For each:
-- repetition
-- candidate name
-- job ad
-- resume
+
+- repetition  
+- candidate name  
+- job ad  
+- resume  
+
 The script inserts the candidate name and creates a scoring prompt asking the model to grade:
-1. Relevant Experience
-2. Relevant Skills & Qualifications
-3. Achievements & Impact
-4. Resume Quality
-Each category is scored 0–25 and returned as a comma-separated string.
 
-3. Send Prompts to the API
+- **Relevant Experience**  
+- **Relevant Skills & Qualifications**  
+- **Achievements & Impact**  
+- **Resume Quality**  
 
-4. Rate Limit Throttling
-The script tracks total tokens used and sleeps if it approaches ~25,000 tokens to avoid the API’s 30k/minute limit
+Each category is scored **0–25** and returned as a comma-separated string.
 
-5. Extract Numbers and Write CSV
-Output CSV includes:
+---
+
+### 3. Send Prompts to the API
+Uses `client.responses.create()` to submit each prompt for scoring.
+
+---
+
+### 4. Rate Limit Throttling
+The script tracks total tokens used and sleeps if it approaches **~25,000 tokens** to avoid exceeding the API’s **30k/minute** limit.
+
+---
+
+### 5. Extract Numbers and Write CSV
+The output CSV includes the columns:
+
 | name | gender | race | industry | job_file | resume_file | Experience | Skills | Achievements | Resume |
-You can analyse this CSV in Excel, R, or Python.
+
+You can analyse this CSV using Excel, R, or Python.
+
