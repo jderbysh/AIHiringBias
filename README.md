@@ -29,7 +29,7 @@ project/
 │   └── ... (industry-resume combinations)
 ├── names/
 │   └── names.txt
-├── api_key.txt
-├── run.py        # the script
+├── api_key.txt 
+├── run.py       
 └── README.md
 
