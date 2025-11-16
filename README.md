@@ -1,3 +1,7 @@
+## Credit
+Special mention to the authors Marianne Bertrand & Sendhil Mullainathan of the 2003 working paper 'ARE EMILY AND GREG MORE EMPLOYABLE THAN LAKISHA AND JAMAL? A FIELD EXPERIMENT ON LABOR MARKET DISCRIMINATION' 
+The names and name categories used in this study are based on their original research conducted in 2003.
+
 ## Overview
 
 This project runs a large-scale experiment designed to test bias in AI-generated resume evaluations.
