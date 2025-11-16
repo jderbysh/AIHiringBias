@@ -11,9 +11,9 @@ client = OpenAI(api_key=api_key)
 
 # Parameters
 repetitions = 1  # Number of repetitions
-industries_count = 1   # Number of industries 
-jobs_count = 1   # Number of jobs per industry
-resumes_count = 1  # Number of resumes per industry
+industries_count = 3   # Number of industries 
+jobs_count = 3   # Number of jobs per industry
+resumes_count = 3  # Number of resumes per industry
 
 # file paths
 job_directory = "./jobs"
