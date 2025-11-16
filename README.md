@@ -49,8 +49,6 @@ The names file is structured as a CSV: <name>,<gender_code>,<race_code>
 ### 1. Load API Key
 Reads your OpenAI API key from `api_key.txt`.
 
----
-
 ### 2. Build Prompt Combinations
 For each:
 
@@ -68,17 +66,11 @@ The script inserts the candidate name and creates a scoring prompt asking the mo
 
 Each category is scored **0–25** and returned as a comma-separated string.
 
----
-
 ### 3. Send Prompts to the API
 Uses `client.responses.create()` to submit each prompt for scoring.
 
----
-
 ### 4. Rate Limit Throttling
 The script tracks total tokens used and sleeps if it approaches **~25,000 tokens** to avoid exceeding the API’s **30k/minute** limit.
-
----
 
 ### 5. Extract Numbers and Write CSV
 The output CSV includes the columns:
