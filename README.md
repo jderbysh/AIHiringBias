@@ -45,8 +45,12 @@ project/
 │   └── ... (industry-resume combinations)
 ├── names/
 │   └── names.txt
+├── results
+│   ├── evaluation_results.csv
+│   └── ... (further results files)
 ├── api_key.txt 
-├── run.py       
+├── run.py
+├── requirements.txt       
 └── README.md
 
 ```
@@ -95,3 +99,24 @@ The output CSV includes the columns:
 
 You can analyse this CSV using Excel, R, or Python.
 
+## Running the Script
+### 1. Install dependencies
+Make sure you have Python 3.10+ installed, then run:
+```bash
+pip install -r requirements.txt
+```
+### 2. Add your OpenAI API Key
+Create a file named: api_key.txt
+Place your key inside (no quotes, no spaces).
+
+### 3. Add job ads, resumes and names
+Put job files in the jobs/ folder
+Put resumes in the resumes/ folder
+Put the names list in names/names.txt
+
+### 4. Run the experiment
+```bash
+python run.py
+```
+### 5. View results
+The script will generate evaluation_results.csv
